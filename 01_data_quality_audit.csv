@@ -1,0 +1,6 @@
+issue,lines,value
+Rows with unparseable amount or missing supplier,35,
+Zero-value lines removed,374,0.0
+Duplicate purchase lines removed,785,27807216.89
+"Lines dated outside FY2014-15 (flagged, kept)",3906,1714619406.38
+Lines with supplier recorded as 'Unknown',623,161682972.82

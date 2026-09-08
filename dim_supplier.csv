@@ -1,0 +1,2112 @@
+supplier_id,supplier,spend,lines,small_business,dvbe
+0,1 fire protection,19900.0,3,True,False
+1,2 90 sign systems,7621.400000000001,13,False,False
+2,3b industries,44365845.35,1165,False,True
+3,3m,136072.73,1,False,False
+4,3qc,3045521.0,3,True,False
+5,3t equipment,22377.52,1,True,False
+6,3way consulting,270840.0,1,True,False
+7,4d,150000.0,2,False,False
+8,5 cities supply,626694.17,84,True,False
+9,5k,8160.0,2,True,False
+10,aaa electrical supply,2196.6,1,True,False
+11,aaa wholesale,1340970.55,278,True,False
+12,aaa wholesale tool supply,37552.200000000004,8,True,True
+13,abate weed,14314.96,4,True,False
+14,abbott diabetes care sales,40681.92,5,False,False
+15,abc fire extinguisher,13923.670000000002,3,False,False
+16,abc office systems,4999.99,1,True,False
+17,abc press,49995.16,1,False,False
+18,abc ventures,6379917.35,363,True,False
+19,abejanitorial supply,9000.0,1,True,False
+20,able ribbon technology,53846.45,38,True,False
+21,ablegov,2303271.57,112,True,False
+22,abm building energy solutions,69480.0,1,False,False
+23,ac3,50000.0,1,True,False
+24,accela,89572.0,6,False,False
+25,access custom garage doors,25121.26,1,False,False
+26,access electric supply,62109.83,36,True,False
+27,access systems,6598.0,1,False,False
+28,acco engineered systems,48057.0,5,False,False
+29,accredo health group,27398.0,3,False,False
+30,accu chart plus health care systems,3144.86,1,False,False
+31,accugov,304706.54,112,True,False
+32,accurate measurement systems,32947.0,7,True,False
+33,accuvant,84515.16,1,False,False
+34,ace karaoke,299.0,1,False,False
+35,ace uniforms,427006.01,7,True,False
+36,acme glass,10686.4,1,True,False
+37,acroprint time recorder,98.5,2,False,False
+38,action computer toner supply,9430.7,3,False,False
+39,action rubber stamps,3453.58,9,True,False
+40,actors gang,20504.0,1,False,False
+41,adams electronics,5500.48,1,False,False
+42,adams heating cooling,4650.0,1,False,False
+43,adolph,5850211.62,676,True,False
+44,advanced distribution,40536.44,24,False,False
+45,advanced dvbe solutions,32237.72,2,True,True
+46,advanced fuel services,92469.0,1,True,False
+47,advanced technical solutions,134985.31,26,True,False
+48,advanced technologies consultants,1589893.63,20,False,False
+49,advanced technologies group,585160.56,8,False,False
+50,advanced technology solutions,117191.17,6,False,False
+51,advantage imaging supply,20812.2,3,True,False
+52,advantage west government product solutions,15622.0,3,True,False
+53,aecom,12000000.0,1,False,False
+54,aecom technical services,12292341.0,4,False,False
+55,aeg ontario arena,26000.0,1,False,False
+56,aegis its,62016.0,1,False,False
+57,afeco dba fire etc,97039.0,5,False,False
+58,agathos laboratories,47622.0,1,True,False
+59,ahern rentals,1400000.0,1,False,False
+60,aic electric,11882.0,1,False,False
+61,air exchange,10702.0,1,True,False
+62,air filter supply,215934.93999999997,15,True,False
+63,air management industries,282050.0,2,True,False
+64,air management systems,189610.0,1,True,False
+65,airco systems,2451473.0,9,True,False
+66,aircon energy,10000000.0,1,False,False
+67,airgas carbonic,5447.5,1,False,False
+68,airgas northern ca nv,251.6,1,False,False
+69,airgas usa,521855.49,72,False,False
+70,airgas west,5525.0,1,False,False
+71,alameda electrical distributors,6037.2,1,False,False
+72,alco target,46315.840000000004,6,True,False
+73,alden research laboratory,750000.0,1,False,False
+74,alexander antipov dds,128825.0,1,False,False
+75,all america medical products,9721.240000000002,3,False,False
+76,all american rentals,1735552.0,6,True,False
+77,all business machines,441488.20999999996,155,False,True
+78,all cal equipment service,40000.0,1,False,False
+79,all central shred,4000.0,1,True,False
+80,all gen electric service,1526131.38,75,False,False
+81,all industrial electric supply,68976.70999999999,76,True,False
+82,all phase electric ced,4880.52,5,False,False
+83,all phase electric supply,3310.78,1,False,False
+84,all safe engravers,7685.0,1,True,False
+85,all state si,20000.0,1,True,False
+86,all terrain water,6033479.0,27,True,True
+87,all valley environmental,383628.0,2,True,False
+88,allen packaging,242757.0,1,False,False
+89,alliant insurance services,39193.86,3,False,False
+90,allied 100,9747.33,1,False,False
+91,allied building products,19802.75,2,False,False
+92,allied concrete pumping,662147.0,2,False,False
+93,allied crane,3000000.0,1,True,False
+94,allied veteran logistical services,59785.0,1,True,True
+95,allied waste services north america dba republic services sacramento,154678.0,1,False,False
+96,allworld language consultants,11025.0,2,False,False
+97,alpha fire sprinkler,197423.0,7,True,False
+98,alpha wholesale produce,552455.42,27,True,False
+99,alpine controls,163670.0,2,True,False
+100,aluma tower,296276.0,1,False,False
+101,am conservation group,6750.0,1,False,False
+102,am copiers,7789.99,3,True,False
+103,amber chemical,37600.0,1,False,False
+104,amec earth environmental,1318761.0,1,False,False
+105,amec environmental infrastructure,382128.0,6,False,False
+106,american alarm,139724.0,2,True,False
+107,american association bioanalysts,150.0,1,False,False
+108,american association textile chemists colorists,9535.5,1,False,False
+109,american blinds draperies,4700.55,1,True,False
+110,american carports,9306.0,1,False,False
+111,american chiller service,849123.29,6,True,False
+112,american commodities awob,184737.18,41,True,False
+113,american cooling tower,72400.0,1,False,False
+114,american correctional association,692.0,1,False,False
+115,american correctional solutions,5486.8,1,True,False
+116,american crane rental,349020.0,1,True,False
+117,american disabled veterans distributors,9006.0,1,False,False
+118,american eagle computer products,23950.03,5,False,False
+119,american electric supply,85557.75,8,False,False
+120,american innovations,136031.95,9,False,False
+121,american machines,85750.0,1,False,False
+122,american medical depot,3142.7200000000003,3,False,False
+123,american medical service,101756.78,22,True,False
+124,american messaging service,40062.9,22,False,False
+125,american metals,7260.8,1,False,False
+126,american office products,16116.94,1,True,False
+127,american proficiency institute,210.0,1,False,False
+128,american refuse,1033344.0,3,True,False
+129,american safety emt,24000.0,1,False,False
+130,american textile supply,161674.75,9,True,False
+131,american textile systems,5362630.26,250,True,False
+132,amerigas,91800.0,1,False,False
+133,ameriguard maintenance services,798738.0,1,True,False
+134,ameritech business systems,2000.0,1,True,False
+135,amirix systems,181587.24,3,False,False
+136,ammmm,18218.75,5,True,False
+137,ammons scientific,12380.0,4,False,False
+138,anchor supply,251409.88999999998,52,True,True
+139,anderson pacific engineering construction,6094000.0,1,False,False
+140,anderson pump,18380.12,1,False,False
+141,andrada associates,191900.0,3,True,False
+142,angelo kilday kilduff,134760.0,2,False,False
+143,angus hamer,699347.5,2,False,False
+144,angus hamer networking,521327.51,7,True,True
+145,antelope valley east kern water age,9000.0,1,False,False
+146,apex,122590.0,1,False,False
+147,apollo printing graphics,497.0,3,True,False
+148,appliance sales service,6270.0,1,True,False
+149,applied network security,10018.0,1,False,False
+150,apsi construction management,183958.0,1,True,False
+151,aqua sierra controls,336503.22000000003,5,True,False
+152,aquatic science center,327546.0,2,False,False
+153,ardor health solutions,469000.0,1,False,False
+154,area restroom solutions,268115.0,1,True,False
+155,argus media,5850.0,1,False,False
+156,arise hospitality solutions,5135.92,1,True,False
+157,arizona continental flooring,81858.31,1,False,False
+158,arjohuntleigh,20000.0,1,False,False
+159,arlene mickley dba educ strategies,24134.76,1,False,False
+160,armstrong medical industries,715.0,1,False,False
+161,arrow restaurant equipment,13744.5,2,False,False
+162,arrow vending,660600.28,18,False,False
+163,arrowhead forensics,3306.45,2,False,False
+164,arroyo grande glass mirror,15002.0,2,False,False
+165,articulate global,6291.0,1,False,False
+166,asap industrial supply,18305.0,1,False,False
+167,ascent environmental,187841.0,10,True,False
+168,aseptico,342.0,1,False,False
+169,ashan,118.5,1,True,False
+170,association california water agencies,6272502.55,3,False,False
+171,astrophysics,19700.0,2,False,False
+172,at t,506500.0,2,False,False
+173,at t global services,23312.6,1,False,False
+174,at t mobility,66217.8,32,False,False
+175,athletic stuff,12659.25,1,False,False
+176,atlantic diving supply,9481.8,1,False,False
+177,atlantic hvac,65845.0,2,False,False
+178,atlas tool machine service,2500.0,1,True,False
+179,atv video center,15792.5,3,True,False
+180,aurora systems consulting,78961.91,16,True,False
+181,automated gate services,33361.2,1,True,False
+182,autozone,44373.43,8,False,False
+183,avantpage,10000.0,1,True,False
+184,avenal lumber hardware,168906.73,13,True,False
+185,avepoint,21300.0,2,False,False
+186,avia partners,2240.98,4,False,False
+187,axcelerate networks,77080.0,4,True,False
+188,az golf cart specialist,1679.86,1,False,False
+189,azca drilling pump,179400.0,2,False,False
+190,aztec software,724054.5,12,False,False
+191,b b surplus,20530.129999999997,6,False,False
+192,b b technical services,99000.0,1,True,False
+193,b s e,22400.0,1,False,False
+194,b w c electric,4996.15,1,True,False
+195,back to basics foods,25140.0,3,True,False
+196,bag masters,641.25,1,False,False
+197,bake r us,10357.2,2,False,False
+198,bakemark,67991.58,11,False,False
+199,baker rescue services,4000000.0,1,True,False
+200,bakersfield paint wallpaper,11922.48,11,True,False
+201,bakersfield winnelson,432.24,1,False,False
+202,baking ukiah,6688.36,1,False,False
+203,baldwin contracting dba knife river construction,8782.81,2,False,False
+204,bang creative in,750000.0,1,False,False
+205,barc industries development,180000.0,1,False,False
+206,barcodes,9610.0,2,False,False
+207,bard access systems,391.0,1,False,False
+208,barnes noble,35420.47,9,False,False
+209,barnes noble booksellers,9986.53,3,False,False
+210,barnes noble booksellers store 2105,101.8,1,False,False
+211,barnes noble com,7070.85,1,False,False
+212,barrett engineered pumps,18375.12,2,True,False
+213,barry krisberg ph d,106776.0,1,False,False
+214,barry wehmiller design,9030.0,3,False,False
+215,barton overhead door,22586.56,2,True,False
+216,basalite concrete products,146372.37,8,False,False
+217,battery systems,29486.58,4,False,False
+218,bauer compressors,55203.32,3,False,False
+219,bay cities refuse service,107471.0,2,True,False
+220,bay medical,1538177.22,543,True,False
+221,baydot,51852.5,2,True,False
+222,bbc electric,13996.15,2,True,False
+223,bbl consultants,4999.0,1,False,False
+224,bear data solutions,15560.0,1,False,False
+225,bear state pump equipment,12251.0,1,False,False
+226,beckman coulter,10883.89,3,False,False
+227,beeson terhorst,665000.0,1,False,False
+228,behavioral systems southwest,15645813.39,5,False,False
+229,belson outdoors,48603.24,1,False,False
+230,benes krueger sc,49000.0,1,False,False
+231,bentley government,556987.03,22,False,False
+232,benz sanitation,28185.0,1,False,False
+233,berkeley varitronics systems,2370.25,1,False,False
+234,berry lumber,5470.25,1,False,False
+235,best best krieger,150000.0,1,False,False
+236,best source distributing,55276.16,16,True,False
+237,beverly hills 310,7788.0,2,True,False
+238,beyondtrust software,97489.56,3,False,False
+239,bi,14128622.92,3,False,False
+240,big r metals,201629.96,1,True,False
+241,big red construction,650.0,2,False,False
+242,bills mower saw,12483.88,1,False,False
+243,bio medical devices intl,2512.23,1,False,False
+244,biotron engineering,12698.99,5,True,False
+245,bioventus,4250.0,1,False,False
+246,bizchair com,949.5,1,False,False
+247,bj enterprises,28487.5,1,True,False
+248,black veatch,137098.0,2,False,False
+249,blaisdell s business products,19591.55,3,True,False
+250,blast coat systems,13676.0,4,True,False
+251,blasting materials equipment,19800.0,1,True,False
+252,bloomberg,25080.0,1,False,False
+253,blue eagle enterprises,1465043.48,73,True,True
+254,blue line media,13900.0,1,True,False
+255,blue violet networks,11082.8,1,False,False
+256,blythe auto parts,11746.880000000001,16,True,False
+257,bm associates,462000.0,3,True,False
+258,bob allen,2050.0,1,True,False
+259,bob barker,56071.130000000005,12,False,False
+260,bobcat,16439.95,8,False,False
+261,bonanza produce,136506.85,22,False,False
+262,books crannies,1446.6,1,False,False
+263,bps tactical,40104.2,3,False,False
+264,brailler depot,6230.0,1,False,False
+265,brandco,90000.0,1,True,False
+266,brenntag pacific,106028.84999999999,9,False,False
+267,bridge micro,125412.45,8,True,False
+268,briscoe ivestor bazel,100000.0,1,False,False
+269,brocade,67400.36,1,False,False
+270,brodart,30502.91,4,False,False
+271,brooks,1290971.3,122,True,True
+272,brooks assoc,6234.69,1,True,False
+273,brothers plumbing dba mr rooter,16678.0,1,False,False
+274,brothers wilson forklift svc,333422.0,2,True,True
+275,brown s dock door,56040.0,1,False,False
+276,bruce s tire,47483.85,16,True,False
+277,bsn sports,22936.79,38,False,False
+278,budget blinds monterey bay,4171.0,1,False,False
+279,builders booksource,66436.0,3,True,False
+280,building resource management,5028.4,1,True,False
+281,buona fortuna foods,241324.8,61,True,False
+282,bureau office services,145000.0,1,False,False
+283,burke pace arroyo grande,6571.44,1,False,False
+284,burke williams sorensen,6296460.0,31,False,False
+285,burkett s office supplies,17637.530000000002,28,True,False
+286,burkhart dental supply,89890.08,9,False,False
+287,burlodge usa,735.36,1,False,False
+288,burmax,6493.56,1,False,False
+289,burns pharmacy,212.25,2,False,False
+290,business products supplies,5997.7,1,True,False
+291,butler mobile cleaning source,661914.0,2,True,False
+292,butte county office education,5010000.0,1,False,False
+293,butte county sheriff s department,298662.0,1,False,False
+294,buxton auto transport,150000.0,1,True,False
+295,buy supplies 4 less,28795.16,36,False,False
+296,by referral labels,902.88,1,False,False
+297,c athletics,15649.72,1,True,False
+298,c b enterprises,36744.43,2,False,False
+299,c c d s dba industrial door,127835.26,7,True,False
+300,c d industrial supply,29857.8,3,False,False
+301,c electric,45500.0,1,False,False
+302,c h fence patio,7112.41,1,True,False
+303,c j foods,8900.0,1,True,False
+304,c randy landis dds north valley maxillofacial surgery,1.0,1,False,False
+305,c s industrial coatings,6440.0,1,True,False
+306,c s industrial supply,574483.01,104,True,False
+307,ca arts council,2816998.2,2,False,False
+308,ca dept corrections rehabilitation,919.0,1,False,False
+309,ca state controllers office,29820.0,1,False,False
+310,ca state water resources control board,428804.0,3,False,False
+311,cache creek lodge,1663008.41,1,False,False
+312,caf tech,18446.62,1,True,False
+313,cal best industrial supply,170074.91,33,True,False
+314,cal coast machinery,5988.62,1,False,False
+315,cal coast ophthalmic instruments,20264.95,6,False,False
+316,cal fire,20560.33,3,False,False
+317,cal sierra disposa,401710.0,1,False,False
+318,cal steam 2504,33945.46,2,False,False
+319,cal west products,4800.0,1,True,False
+320,cal west rain,43537.0,1,False,False
+321,calaveras lumber,20021.11,3,True,False
+322,calaveras materials,10215.0,1,False,False
+323,california community colleges,2000000.0,1,False,False
+324,california conservation corps,2154895.7800000003,3,False,False
+325,california custom trailers,13268.0,1,True,False
+326,california department corrections rehabilitation cdcr,1099200.0,2,False,False
+327,california department fish game,27751353.23,9,False,False
+328,california department fish wildlife,3243570.0,1,False,False
+329,california department forestry fire protection,15899.74,1,False,False
+330,california department parks recreation,8103980.0,1,False,False
+331,california department public health,345628.0,2,False,False
+332,california department transportation,6391985.0,2,False,False
+333,california diamond products,161175.35,9,True,False
+334,california emergency management agency,358500.0,1,False,False
+335,california energy circuit,5300.0,1,True,False
+336,california hazardous services,58046.4,1,True,False
+337,california highway patrol,49000.0,1,False,False
+338,california natural resources agency,272367.63,2,False,False
+339,california power law group,3258000.0,9,False,False
+340,california reporting,110000.0,1,True,False
+341,california rural water association,100000.0,1,False,False
+342,california state lands commission,49899.0,1,False,False
+343,california state university chico research foundation,1289987.0,1,False,False
+344,california state university fresno foundation,380948.0,1,False,False
+345,california state university sacramento,5863031.75,4,False,False
+346,california steam specialties,27074.95,4,True,False
+347,california surveying drafting,286517.45,18,False,False
+348,california surveying drafting supply,95754.5,9,False,False
+349,california turf equipment supply,57038.12,2,True,False
+350,california urban water conservation council,217379.0,1,False,False
+351,california veteran supply,1576104.65,203,True,True
+352,california western visuals,81114.48000000001,3,True,False
+353,calportland cement,3843.63,1,False,False
+354,camfil farr,4662.72,1,False,False
+355,campbell scientific,11236.33,9,False,False
+356,campton electric supply,14808.310000000001,2,False,False
+357,cannon sports,87251.02,24,True,False
+358,capital datacorp,76534.42,11,True,False
+359,capitol elevator,26000.0,1,True,False
+360,capsa solutions,24109.83,9,False,False
+361,cardno entrix,6071514.0,4,False,False
+362,caris usa,7182.0,1,False,False
+363,carl zeiss meditec,170.0,1,False,False
+364,carpenter excavation,35513.28,3,False,False
+365,cart mart,28058.34,9,True,False
+366,carter water well drilling service,23829.04,2,False,False
+367,casalett,33480.0,2,True,False
+368,cascade healthcare services,10000.0,1,False,False
+369,cash carry,7013.4,1,False,False
+370,castaic lake water agency,57000.0,1,False,False
+371,castaic towing auto repair,10660.039999999999,24,False,False
+372,castle king rock ready mix,118835.0,2,True,False
+373,ccc,56310.0,1,False,False
+374,ced consolidated electrical dist,84301.89,5,False,False
+375,cee,155935.0,1,False,False
+376,celer systems,901390.0,3,True,False
+377,cellblock supply,3263005.03,41,True,False
+378,celle brite usa,13698.97,2,False,False
+379,cemex,13463.5,1,False,False
+380,cemex construction materials pacific,5996.0,1,False,False
+381,cen cal,9266.42,3,False,False
+382,cengage learning,84235.06,5,False,False
+383,center for change,1904400.0,1,False,False
+384,center for healthcare education,1932.0,6,True,False
+385,center point,25942385.16,4,False,False
+386,central auto parts ii,14534.869999999999,2,False,False
+387,central california instruments,30295.0,5,False,False
+388,central coast commercial laundries,11861.0,3,False,False
+389,central glass,6872.2,1,True,False
+390,central marin sanitation agency,8740725.0,1,False,False
+391,central valley golf utility vehicles,100934.98,7,True,False
+392,central valley office supply,126317.34,64,True,False
+393,central valley trailer repair,8835.0,1,False,False
+394,century sun solar,80332.0,3,True,False
+395,cepa operations,24200.0,2,True,False
+396,certex southern california lamb,11031.99,1,False,False
+397,certified medical testing,11249.98,3,False,False
+398,certiport,41808.35,3,False,False
+399,ch2m hill,18000000.0,2,False,False
+400,champion fire systems,619514.92,1,True,False
+401,change companies,95211.0,6,False,False
+402,channing bete,6108.9,9,False,False
+403,charles f gagliasso trucking,22194.71,4,True,False
+404,charm tex,261.12,1,False,False
+405,chem quip,120582.93,4,False,False
+406,chemco products,14856.599999999999,2,False,False
+407,chickasaw general supply,18814.2,4,False,False
+408,chickasaw supply,413644.08,79,True,True
+409,chino auto parts,5000.0,1,False,False
+410,christian bartels enterprises dba cb enterprises,6387831.82,692,True,False
+411,chronicle graphics,1179.24,1,False,False
+412,churchfield trading,336063.6,41,True,False
+413,cinderlite trucking,4700.0,2,False,False
+414,cinetcomm,4097.0,1,False,False
+415,cipherpoint software,10000.0,1,False,False
+416,cirrus environmental,6794404.71,41,True,True
+417,cisco air systems,7800.0,2,True,False
+418,cisco systems,11093279.8,61,False,False
+419,citadel electric,1725000.0,3,True,False
+420,citori dba g m towing automotive,5089.25,5,False,False
+421,citrus heidgts body shop,5210.26,5,False,False
+422,citrus heights saw mower,13400.0,1,True,False
+423,city crescent city,9992.0,1,False,False
+424,city delano,361152.0,1,False,False
+425,city fresno,35000.0,1,False,False
+426,city lancaster,0.03,1,False,False
+427,city oakland department human services,5869339.17,1,False,False
+428,city oroville,8070000.0,1,False,False
+429,city red bluff,1999.68,1,False,False
+430,city san bernardino,45000.0,1,False,False
+431,city west sacramento,1649969.4,1,False,False
+432,cla val,4860.0,3,False,False
+433,clarizen,10065.6,1,False,False
+434,clark equipment supplies,412489.8,41,True,False
+435,clark security products,23540.34,2,False,False
+436,clark security products division anixter,33847.25,2,False,False
+437,clary business machines,18444.58,2,True,False
+438,class act alliance,439424.0,1,True,False
+439,clean lakes,34386.06,2,True,False
+440,cleansource interline brands,71324.0,4,False,False
+441,clipper commodities,786912.93,73,True,False
+442,clipper controls,33160.0,3,True,False
+443,cloverleaf distribution,635196.18,158,True,False
+444,cloverleaf solutions,5803.4,2,True,False
+445,clovis stationery office supplies,2035.13,5,True,False
+446,clyde g steagall,1975098.0,1,True,False
+447,cmp industries,391.03,2,False,False
+448,coachella valley packaging,7840.0,1,True,False
+449,coalinga huron recreation park district,24000.0,1,False,False
+450,coast citrus distributors,40874.95,1,False,False
+451,coast crane,10775.94,10,False,False
+452,coast electronics,6733.7300000000005,3,True,False
+453,coast learning systems,9515.25,1,False,False
+454,coastline community college,23310.98,4,False,False
+455,cobalt industrial supply,1401227.14,93,True,False
+456,cobra tactical,15330.38,1,True,False
+457,coca cola,33071.65,13,False,False
+458,cocoblue,94553.69,10,True,False
+459,cofer oberlies,9350.0,1,True,False
+460,cole office products,292365.68,136,True,False
+461,collier hardware,285304.85,43,True,False
+462,columbia specialty,17614.31,1,False,False
+463,comfort air,21472.0,1,True,False
+464,commercial appliance service,7867.78,1,True,False
+465,commercial door metal systems,6138.0,1,False,False
+466,community education centers,29683793.299999997,2,False,False
+467,community partners,193440.0,4,False,False
+468,community recycling,2711392.38,1,False,False
+469,complete development services,57555.810000000005,15,True,False
+470,compressor parts unlimited 33403,12856.0,4,True,False
+471,compucom systems,3592065.34,42,False,False
+472,computer 1 products america,66189.40000000001,4,True,False
+473,computer masters,5287.97,1,True,False
+474,computer protection technology,45000.0,1,True,False
+475,computer supplies unlimited,4990.0,2,True,False
+476,computers structures,9360.0,2,False,False
+477,comtech communications,8372.5,1,True,False
+478,comtronix communications,14392.0,1,True,False
+479,concord police association,18090.0,1,False,False
+480,concrete,12150.0,1,False,False
+481,concrete supply,94088.88,7,False,False
+482,confidence ust services,9640.0,1,True,False
+483,confidential data destruction confidential profilers,4999.99,1,True,False
+484,confidential document control,88200.0,1,True,False
+485,conrad supply,76340.0,1,False,True
+486,consolidated electrical dist,113299.98,31,False,False
+487,consolidated electrical distributors,37854.04,7,False,False
+488,consolidated fabricators,13725.0,1,False,False
+489,container alliance,8280.0,1,True,False
+490,containment technologies group,567.7,1,False,False
+491,contessa state supply,251906.18,32,True,False
+492,continuing education bar,10500.0,1,False,False
+493,continuity consulting,122500.0,3,True,False
+494,contour sierra aebi terratrac,6177.55,8,False,False
+495,contra costa county office education,560000.0,1,False,False
+496,control solutions,60416.31,6,True,False
+497,control solutions design,135647.72,10,True,False
+498,controlled motion solutions,4876.3,6,False,False
+499,cook paging,1783.0,1,False,False
+500,cook s direct,147.96,1,False,False
+501,coop systems,144000.0,2,False,False
+502,cooper controls,4706.1,1,True,False
+503,cooper oates air conditioning,4999.99,1,True,False
+504,cooper surgical,6602.04,3,False,False
+505,cooperative personnel services,31415.0,2,False,False
+506,cop shop installations,5954.58,1,True,False
+507,copy duplicating systems,126515.76999999999,2,True,False
+508,cornell corrections california,7276992.16,2,False,False
+509,cosar international,20347.5,1,True,False
+510,cosco fire protection,6858.96,1,False,False
+511,cottonwood electric cart service,19293.4,2,True,False
+512,counseling team international,26125.0,1,False,False
+513,county calaveras,82241.75,1,False,False
+514,county imperial,206380.0,1,False,False
+515,county kern,36589.0,11,False,False
+516,county los angeles dpr,1753118.2,1,False,False
+517,county marin,562100.0,1,False,False
+518,county monterey,19425.0,1,False,False
+519,county sacramento,63964288.0,13,False,False
+520,county san bernardino,14496.0,1,False,False
+521,county san bernardino department workforce development,1115165.0,1,False,False
+522,county san joaquin,27032.85,1,False,False
+523,county san mateo,6784.0,1,False,False
+524,county santa clara,4412594.48,3,False,False
+525,county solano,167200.0,1,False,False
+526,county trinity,107523.0,1,False,False
+527,county tulare,44951.0,4,False,False
+528,county tuolumne,22500.0,1,False,False
+529,coverall protective covers,10997.6,1,False,False
+530,covidien kendall,2625.0,1,False,False
+531,cpc,6216900.0,1,False,False
+532,cr r,1476780.0,2,False,False
+533,craftmaster hardware,73159.35,12,False,False
+534,craig brown,248153.0,1,True,False
+535,crawford associates,12761.13,1,False,False
+536,creative bus sales,2229917.04,18,False,False
+537,creative ceramics glass,4493.46,2,True,False
+538,creative custom products,95700.0,7,False,False
+539,credit management control,639.0,1,False,False
+540,crescendo systems,107973.18999999999,2,False,False
+541,crop production services,105385.2,3,False,False
+542,crown broadcasting,6575.78,1,True,False
+543,crown lift,44603.93,3,False,False
+544,crystal data solutions,5581.74,3,True,True
+545,cs asscociated municipal sales,10188.31,4,True,False
+546,csdvrs,511.0,1,False,False
+547,csi paint,24915.52,1,True,False
+548,csi supply,43471.13,42,True,False
+549,ct international,5883.09,1,True,False
+550,ctb mcgraw hill,3479126.21,18,False,False
+551,cte cal,2032200.0,1,False,False
+552,cubes,11120.0,2,True,False
+553,curry transfer recycling,57801.0,1,False,False
+554,custom carpet outlet,75950.0,1,False,False
+555,customer expressions,6600.0,1,False,False
+556,customized energy solutions,26400.0,1,False,False
+557,cutting edge audio group,12210.0,6,True,False
+558,cwl,4805.3,1,True,True
+559,cyber medical imaging,2082.64,25,True,False
+560,d j international,511328.08,6,True,False
+561,d k foods,75472.84,5,False,False
+562,d l auto parts,13545.01,4,True,False
+563,d l supply,13812.0,2,True,False
+564,daglow janitorial med supplies,38315.84,19,True,False
+565,daily journal,48845.0,35,False,False
+566,dal tile,22140.8,1,False,False
+567,dan s electrical supply,5317.9,1,True,False
+568,daniel m judd o d,14271.0,3,False,False
+569,daniels tire service,17956.21,22,False,False
+570,dash medical gloves,22456.0,3,False,False
+571,data disposal,4999.99,1,True,False
+572,data systems design,4428.0,2,False,False
+573,database republic,107250.0,1,True,False
+574,datamaxx group,88978.21,1,False,False
+575,dataskill,113088.51,8,True,False
+576,dave leggitt enterprises,31099.79,7,True,False
+577,david billingsley tire service,46315.3,6,True,False
+578,david ford consulting engineers,73381.0,2,True,False
+579,david morris enterprises,710000.0,4,True,False
+580,davita,2787000.0,1,False,False
+581,db backflow plumbing service,76025.0,1,True,False
+582,dc electronics,888.6,1,False,False
+583,dc frost associates,52173.95,2,False,False
+584,de novo ink,581.28,2,True,True
+585,dean distributors,11600.0,2,True,False
+586,del norte office supply,2315.31,9,True,False
+587,del paso pipe steel,60142.38,5,True,False
+588,delano building materials,559.6,2,False,False
+589,delaware compumed,1176239.0,2,True,False
+590,delegata,4371882.5,9,True,False
+591,dell marketing l p,802289.82,6,False,False
+592,dellavalle laboratory,41612.0,1,False,False
+593,delta container,153000.0,1,False,False
+594,delta development,195000.0,1,True,False
+595,delta electrical construction,155850.0,1,True,False
+596,delta protection commission,499500.0,2,False,False
+597,delta wireless,648685.77,6,True,False
+598,dental health products,2926.52,1,False,False
+599,department fish game,5618348.3,2,False,False
+600,department general services,242698.1,11,False,False
+601,department health care services,336963.0,1,False,False
+602,department human resources,154530.0,2,False,False
+603,department justice,4823474.0,6,False,False
+604,department parks recreation,50000.0,1,False,False
+605,department state hospitals,2.0,1,False,False
+606,department toxic substance,38235.0,1,False,False
+607,desert business machines,17080.0,4,True,False
+608,desert industrial supply,15971.55,1,False,False
+609,dewberry architects,70380.0,1,False,False
+610,di technology group dba data impressions,135949.0,3,True,False
+611,diamedical usa equipment,1842.0,1,False,False
+612,diamond environmental services,106024.0,1,False,False
+613,diana orozco associates,100660.0,1,True,False
+614,digicert,5000.0,1,False,False
+615,digital online technologies dba credential smart,83575.0,1,False,False
+616,dillard environmental services,149150.0,1,True,False
+617,diltex,30194.99,11,True,False
+618,direct action tactical,19999.0,1,True,False
+619,direct digital controls,23264.0,1,True,False
+620,directgov source,586911.73,59,True,False
+621,discount two way radio,7305.6,2,True,False
+622,discoverit solutions,4329.0,1,True,True
+623,discovery door,16651.4,1,True,False
+624,distec supply,94210.62,13,True,False
+625,ditch witch equipment,44500.0,1,True,False
+626,diversified electrical systems,18930.0,1,True,False
+627,dls enterprises net,305900.0,1,True,False
+628,dlt solutions,144672.47,8,False,False
+629,dmg north,7767.0,1,False,False
+630,dmj consulting group,4094.59,2,True,False
+631,dobbs tv appliances,6181.959999999999,2,False,False
+632,dockmasters,360.0,1,False,False
+633,don rose oil,6595.75,2,False,False
+634,door service repair,11167.2,1,True,False
+635,douglas o fleming od,460.0,2,False,False
+636,dow associates,414017.5,25,True,False
+637,downey brand seymour rohwer,143260.0,1,False,False
+638,downtown ford sales,2912218.75,255,False,False
+639,dr andrew rummel od,1753458.99,4,True,False
+640,drumrights office supply,21353.96,3,True,False
+641,dst controls,159160.0,2,False,False
+642,duane morris,1750000.0,3,False,False
+643,dubois excavating,15932.64,2,False,False
+644,dummies unlimited,7794.0,1,False,False
+645,duncan duncan medical,39044.84,4,True,False
+646,dunn edwards,26477.35,30,False,False
+647,dustydiamond enterprise,4749.0,1,True,True
+648,dvbe partners,234975.0,1,True,True
+649,dwaynes friendly pharmacy,500.0,1,False,False
+650,dyers dieselro,4999.99,1,False,False
+651,dyna med division galls,4595.36,2,False,False
+652,dynamic imaging,36830.0,1,False,False
+653,dynamic imaging systems,56043.4,3,False,False
+654,dynamic staffing,325360.0,1,False,False
+655,dynamic systems,648808.48,3,False,False
+656,e j harrison sons,46385.0,1,False,False
+657,e m electric machinery,12100.0,1,False,False
+658,e poly star,1115640.33,40,True,False
+659,e republic,38675.0,2,False,False
+660,e santa ana sons ptg,21547.2,7,False,False
+661,eagle police supply,42525.0,9,True,False
+662,eagleweis dba eagle security systems,14000.0,1,True,False
+663,earned value experts,403341.24,1,True,False
+664,earthgrains baking,1902557.41,150,False,False
+665,east bay regional communications system authority,128640.0,2,False,False
+666,east bay restaurant supply,3736.54,4,False,False
+667,east bay tire,60857.83,12,False,False
+668,eaton interpreting services,980960.0,3,True,False
+669,ebs supply,7410.0,1,True,False
+670,ecolab,37102.85,8,False,False
+671,economy office supply,131.25,1,True,False
+672,ecotensil,20403.46,11,True,False
+673,eddie stone sons,3084.0,12,True,False
+674,edrington schirmer murphy,61950.0,1,True,False
+675,edward isaacson enterprises,607399.2,5,False,False
+676,edward r bacon,64958.75,2,True,False
+677,edwards office systems,6354.92,1,True,False
+678,eh,24946.800000000003,20,True,False
+679,electric lighting,7241.5,5,False,False
+680,electric motor works,17421.0,1,False,False
+681,electric parts center,340620.25,62,True,False
+682,electric truck industries,12868.48,1,True,False
+683,electrojet communications,75392.33,11,True,False
+684,electronic data solutions,111196.92,28,False,False
+685,elements,31744.0,1,False,False
+686,elements food group,1354738.76,121,True,False
+687,elevator industries,244475.0,1,True,False
+688,elite supply source,1818145.07,113,True,False
+689,elk grove auto group,2516458.4,80,False,False
+690,elliot henderson ph d,5643.0,1,False,False
+691,elsevier,294165.0,3,False,False
+692,elster energyict,24000.0,1,False,False
+693,ely auto parts,20000.0,2,True,False
+694,embroidme,176000.0,3,False,False
+695,emc,479494.67,1,False,False
+696,emc publishing,50743.35,1,False,False
+697,emcor service mesa energy,710866.0,2,False,False
+698,emergency first response,142730.0,1,False,False
+699,emergency vehicle specialists,38495.76,3,True,False
+700,emeryville occupational medical center,33701650.0,2,True,False
+701,empire safety supply,532842.55,46,False,False
+702,en pointe technologies,631823.25,1,False,True
+703,en pointe technologies sales,1064632.85,5,False,False
+704,enecon,4980.0,1,False,False
+705,englobal government services,266422.42,1,False,False
+706,enoserv,7718.63,2,False,False
+707,ens,77562.62,9,False,False
+708,enterprise networking solutions,2640567.14,13,True,False
+709,entisys solutions,76837.48,2,False,False
+710,environmental compliance products,5300.0,1,True,False
+711,environmental concepts,10560.0,1,False,False
+712,environmental logistics,375000.0,1,True,False
+713,environmental science associates esa,21300000.0,8,False,False
+714,envirospectrum,4468.61,8,False,False
+715,enviso,1960.0,5,False,False
+716,epi use america,12975.38,1,False,False
+717,epidaurus dba amity foundation,16722435.03,7,False,False
+718,erdas aka leica geosystems geospatial imaging,6700.0,1,False,False
+719,esri learning center,31155.0,1,False,False
+720,essel technology services,952236.0,1,True,False
+721,essentialmed dba magur medical,17105.84,11,True,False
+722,estrada consulting,159498.32,1,True,False
+723,eta international,64533.4,4,False,False
+724,etech controls,16664.8,1,True,False
+725,etrac equipment,14760.0,3,True,False
+726,everfilt,21377.0,1,False,False
+727,evolve technology group,31026.7,3,False,False
+728,evoqua water technologies,76715.7,3,False,False
+729,ewing diagnostics psychological services,1000800.0,1,True,False
+730,excel cardiovascular imaging,2.0,1,False,False
+731,excel interpreting,491880.0,1,True,False
+732,excellent packaging supply,884.4,1,False,False
+733,executive elevator,29300.0,1,True,False
+734,exide technologies,24538.0,2,False,False
+735,express office products,810499.09,77,True,False
+736,express pipe supply,99017.12,4,False,False
+737,f h tire,8451.1,1,True,False
+738,factory direct distribution,732986.6,65,True,False
+739,falcon fuels,2152700.91,44,False,False
+740,family builders by adoption,681506.08,48,True,False
+741,far west business systems,30500.0,1,True,False
+742,fastenal,1390488.09,79,False,False
+743,fat cat services,221784.0,7,True,True
+744,faxtronics,26474.75,4,True,False
+745,fed express business solutions,15000.0,1,False,False
+746,federal general services administration,5284.82,1,False,False
+747,fedex corporate services,126859.99,15,False,False
+748,fenton transcription,450000.0,1,True,False
+749,ferguson,80203.32,6,False,False
+750,ferguson enterprises,151329.58000000002,11,False,False
+751,ferrellgas,3047250.24,60,False,False
+752,ferrellgas l p,1350923.95,16,False,False
+753,fff enterprises,6851.61,3,False,False
+754,fidelity capital holdings,20000.0,1,True,False
+755,fire etc,685.0,1,True,False
+756,firefighters bookstore,7057.8,1,False,False
+757,first choice landscape,9976.0,1,True,False
+758,first choice mobile radiology,2.0,1,False,False
+759,first databank,25560.0,1,False,False
+760,fisher metal products,41700.0,1,True,False
+761,fisher scientific,104570.62,16,False,False
+762,fitzpatrick dental equipment,12449.0,6,False,False
+763,fitzsimmons lumber dba white pine lumber distributor,6716.55,1,True,False
+764,fleet card fuels,60797.479999999996,4,False,False
+765,fleet data systems,188811.1,4,False,False
+766,fleet tek,15390.0,1,True,False
+767,fleet tire dba brannon tire,11853.66,3,False,False
+768,fleetpride,20000.0,1,False,False
+769,fletcher s fire protection,5045.87,1,False,False
+770,flir systems,10050.0,4,False,False
+771,flo line technology,42933.0,2,False,False
+772,flo systems,10236.0,1,True,False
+773,floor store,21699.25,1,False,False
+774,florance distributing,642595.3,91,True,False
+775,fluid gauge,42407.84,5,True,False
+776,fluid imaging technologies,9080.0,4,False,False
+777,flynn enslow,5910.98,1,True,False
+778,focus packaging supply,840.0,1,False,False
+779,follett,8678.849999999999,5,False,False
+780,folsom lake ford,1158151.5,19,False,False
+781,folsom ready mix,93425.0,4,False,False
+782,fong chan architects,709509.0,1,False,False
+783,fontaine metal products,17735.0,3,True,False
+784,food exchange,97194.62,12,True,False
+785,food express usa,51724.79,25,False,False
+786,food service systems,6735299.2700000005,312,False,False
+787,foothill transcription,138685.75,3,True,False
+788,ford construction,1806880.0,1,False,False
+789,ford upland,6187.74,1,False,False
+790,forderer cornice works,2129137.06,31,True,False
+791,fork lift specialties,28753.22,2,True,False
+792,forklift specialists,24179.0,1,False,True
+793,forms at ten,31250.0,1,False,False
+794,fran san meat,8400.0,1,False,False
+795,frank olsen,30487.0,2,True,False
+796,franklin auto body,3179.5,1,False,False
+797,franklin covey client sales,49698.64,1,False,False
+798,franks heating refrigeration,11500.0,2,True,False
+799,franzen hill,6650.0,1,True,False
+800,fraser communications,4084000.0,8,True,False
+801,fred c gilbert,53526.8,30,True,False
+802,freedom medical,758799.98,4,False,False
+803,freeman rock,18776.0,2,True,False
+804,fremont rideout urgent care,4999.0,1,False,False
+805,french fry xpress,1347622.18,95,True,False
+806,fresh foods california,213450.0,13,True,False
+807,fresno oxygen,8386.38,1,False,False
+808,fresno produce,663982.29,46,True,False
+809,fresno tool industrial supply,11400.0,2,True,False
+810,friends outside,8577080.0,2,False,False
+811,fuji film medical systems u s,974686.0,9,False,False
+812,fuller forklift service,3535.0,1,True,False
+813,fulton pacific,117200.0,2,False,False
+814,future perfect studios,17387.14,1,False,False
+815,g g risk management consultants dba g g construction services,300000.0,1,False,False
+816,g p group,702863.09,92,True,False
+817,galaxie defense marketing services,20945.32,1,True,True
+818,garmin international,4677.9,1,False,False
+819,garratt callahan,98595.61,11,False,False
+820,garrison manufacturing,14180.88,1,False,False
+821,gartner,794555.0,9,False,False
+822,garza industries,38254.659999999996,41,True,False
+823,gcs supplies,1000461.05,255,True,False
+824,ge analytical instruments,45360.0,1,False,False
+825,geary pacific,7627.41,1,False,False
+826,gei consultants,15183000.0,6,False,False
+827,geiger supply,40796.08,1,True,False
+828,general produce,10426.3,2,False,False
+829,general pump,9250.0,1,True,False
+830,general supply,7679.71,1,False,False
+831,geo group,1956586.64,2,False,False
+832,geo re entry services,1790099.1099999999,3,False,False
+833,geo slope international,39990.75,4,False,False
+834,geoanalytical laboratories,20000.0,1,True,False
+835,george bryant construction,10030.0,1,True,False
+836,george s auto supply,32638.75,5,True,False
+837,georges auto diesel electric,6911.59,108,True,False
+838,geosystems l p,259000.0,2,False,False
+839,geothermal solutions,13078.960000000001,4,True,False
+840,gerlinger steel supply,360083.74,22,True,False
+841,get tires,16969.19,7,True,False
+842,getting out by going in,354000.0,6,False,False
+843,ghilotti bros,264503.0,2,False,False
+844,gibbs international truck center,53015.7,6,False,False
+845,gilton solid waste management,465000.0,1,False,False
+846,glacier laboratories,163332.2,13,True,True
+847,glidden professional paint center,6110.46,1,False,False
+848,global blue dvbe,465448.16000000003,5,True,True
+849,global correctional systems,9525.0,1,False,False
+850,global fabricators,103940.98999999999,4,False,False
+851,global foods,104322.68,9,False,False
+852,global interpreting network,433875.0,2,True,False
+853,globalscape,22960.17,1,False,False
+854,goengineer,7065.0,3,False,False
+855,gold country cabinets millwork,202646.0,3,True,False
+856,gold run cabinet door,21261.0,1,False,False
+857,golden empire concrete,17123.43,5,False,False
+858,golden state auto body,6701.9400000000005,4,False,False
+859,golden state business systems,226.5,1,False,False
+860,golden state lumber,6799.0,1,False,False
+861,golden state provisions,697098.77,79,True,True
+862,golden west arbor services,106500.0,1,True,False
+863,golden years medical,4999.99,1,False,False
+864,golf cars riverside,33827.98,6,True,False
+865,gone fishin marine,50537.869999999995,52,False,False
+866,gonneville,28974.12,2,True,True
+867,gonzalez enterprizes,95185.05,6,True,False
+868,good source,14403.52,2,True,False
+869,good source solutions,67937.25,8,False,False
+870,goodheart willcox publisher,19918.5,1,False,False
+871,goodman audio services,42495.25,1,False,False
+872,goodspeed auto fuel systems,8760.85,3,False,False
+873,goodyear commercial tire service centers,128980.89,21,False,False
+874,gopher sport,17054.18,22,False,False
+875,gordon industrial supply,527432.22,117,True,True
+876,gorilla stationers,28087.97,2,True,False
+877,gp development,13344.89,5,False,False
+878,grabowski assoc danz sons,96831.0,1,True,False
+879,grainger,91398.41,24,False,False
+880,grainger industrial supply,9516163.37,872,False,False
+881,grandpa s compounding pharmacy,509.0,3,False,False
+882,granite construction,24672.690000000002,2,False,False
+883,granite data solutions,926970.49,17,True,True
+884,granite electrical supply,178999.52000000002,7,False,False
+885,grant thornton,1664686.1,1,False,False
+886,graybar electric,32552.99,4,False,False
+887,graylift,73697.0,6,True,False
+888,greater sacramento pharmacy,847405.34,31,False,False
+889,green waste recovery,109688.0,1,False,False
+890,greene hagen marketing management training,84000.0,1,False,False
+891,greenfield bodyworks,5094.55,2,False,False
+892,greenwire,999000.0,1,True,False
+893,greg robles,35991.85,1,False,False
+894,gregg drilling testing,1297000.0,1,False,False
+895,ground zero analysis,72412.0,2,True,False
+896,gsa federal government,101000.0,2,False,False
+897,gsj utility supply service,8547.38,1,True,True
+898,guidance software,5151.84,1,False,False
+899,guntert steel,31874.6,4,False,False
+900,h m gopher control,8412.0,1,True,False
+901,h w sessoms construction,33278.94,1,True,False
+902,hagel services,11428.59,5,True,False
+903,hallmark group,11455620.28,2,True,False
+904,hammel green abrahamson,1768252.0,3,False,False
+905,hampton tedder electric,697350.0,1,False,False
+906,hamre equipment,7170.66,12,False,False
+907,hanford medical associates,9750.0,1,False,False
+908,hanford toyota,78115.0,2,False,False
+909,hannibal s catering events,411510.0,1,True,False
+910,hanson bridgett marcus vlahos rudy,379200.0,1,False,False
+911,harbour area halfway houses,1670609.7,2,False,False
+912,harcourt assessment,169.2,1,False,False
+913,harris blade rental,100000.0,1,True,False
+914,harris industrial gases,122302.53,31,True,False
+915,harry brown training,6100.0,1,False,False
+916,harry dassah m d,370.0,1,False,False
+917,hartnell community college district,549816.0,1,False,False
+918,harvest farms,188166.6,1,False,False
+919,hat creek construction materials,36470.0,3,False,False
+920,hawk ridge systems,12967.5,1,False,False
+921,hawkins delafield wood,21300000.0,1,False,False
+922,hazelden,981.9,1,False,False
+923,hd supply construction supply dba hd supply white cap construction supply,172815.48,10,False,False
+924,hdr distributing,3267477.2,168,True,False
+925,hdr engineering,22559000.0,5,False,False
+926,health care logistics,4483.7,9,False,False
+927,health edco division wrs group,164.3,2,False,False
+928,healthright 360,34179550.96,9,False,False
+929,hearing services center,2.0,1,False,False
+930,heavy construction system specialists,46900.0,3,False,False
+931,hec software dba reading horizons,411567.77,14,False,False
+932,heetwaves screen printing embroidery promotional products,5000.85,1,True,False
+933,hehr glass,11512.61,11,False,False
+934,helena chemical,28065.0,3,False,False
+935,hello direct,6090.9,2,False,False
+936,hemmingsen contracting,48772.09,1,True,False
+937,henry schein,640910.22,232,False,False
+938,heritage food service equipment,9724.62,1,False,False
+939,heritage food service group,742.0,1,False,False
+940,herold mielenz,5004.13,1,True,False
+941,hertz equipment rental,12385.0,1,False,False
+942,hewlett packard,196610.0,10,False,False
+943,hewlett packard ipg,18573353.0,3,False,False
+944,hf enterprises,831293.26,7,True,False
+945,hga architects engineers,465351.0,1,False,False
+946,hi grade materials,10533.93,6,False,False
+947,hi line electric,167023.34,4,True,False
+948,hi tech emergency vehicle service,484890.5,4,True,False
+949,hi west foods,13280.0,2,True,False
+950,hibser yamauchi architects,232557.0,1,False,False
+951,high desert auto electric,5658.0,1,True,False
+952,highcom security services,4650.0,1,False,False
+953,highland wholesale foods,541322.88,61,True,False
+954,hill rom,3249.52,3,False,False
+955,hilti,38559.68,11,False,False
+956,holland hart,500000.0,1,False,False
+957,holliday rock,6882.0,1,False,False
+958,hollister,811.6,1,False,False
+959,holt ca,6708.76,4,False,False
+960,holt lumber,17047.379999999997,2,True,False
+961,homer s janitorial,189600.0,2,True,False
+962,honda hearing,999996.0,1,True,False
+963,horizon business solutions,26553.82,10,True,False
+964,horizon sales minnesota,9500.0,1,False,False
+965,houghton mifflin harcourt,156146.59000000003,7,False,False
+966,houghton mifflin harcourt publishing,18208.8,1,False,False
+967,howard sons building materials,30842.08,2,True,False
+968,hub construction specialties,133681.2,15,False,False
+969,hubert,103.27999999999999,3,False,False
+970,hunt sons,617553.85,14,False,False
+971,huntington court reporters transcription,110000.0,1,True,False
+972,huntington hardware,5811.0,1,False,False
+973,hust bros,23659.33,13,True,False
+974,ialarm security systems,3000.0,1,False,False
+975,ibhp,46739.01,14,True,False
+976,ibm,18612.0,1,False,False
+977,ice data,12150.0,1,False,False
+978,icf jones stokes,38025000.0,5,False,False
+979,icom american,10319.27,2,False,False
+980,icon safety,7621.04,1,True,False
+981,id card group,4999.99,1,True,False
+982,id label,152.5,1,False,False
+983,idsc holdings snap on ind,40274.74,17,False,False
+984,ifc vets,10450.0,1,True,True
+985,ife group,77692.68,2,True,False
+986,ife marketing,20672.22,1,False,False
+987,ihs global,83927.98,3,False,False
+988,image 2000,5845.2,1,False,False
+989,image sales,96392.0,9,True,False
+990,images,147.96,4,True,False
+991,immixtechnology,13590.6,1,False,False
+992,impact assessment,16875.8,3,False,False
+993,imtech communications,165637.68,12,True,False
+994,inabind systems,103510.0,18,True,False
+995,inchs tooling machining,14100.0,1,True,False
+996,independent concrete cutting,59600.0,1,True,False
+997,industrial electric machinery,17315.0,8,False,False
+998,industrial minerals,403.15999999999997,6,False,False
+999,industrial tests,91258.0,1,True,False
+1000,industrial waste utilization,338806.0,2,True,False
+1001,industry packing seal,18920.86,5,True,False
+1002,infinite solutions,479000.0,1,False,False
+1003,infinity abatement services,57200.0,1,True,False
+1004,infinity optical,2000.0,1,False,False
+1005,info tech research group,101900.0,2,False,False
+1006,infusion therapy institute,8640.0,1,False,False
+1007,inland business systems,74400.0,2,False,False
+1008,inland empire foods,32865.0,3,True,False
+1009,inland potable services,25662.0,2,True,False
+1010,inland water technology,8720.0,1,True,True
+1011,inland water works supply,5460.0,1,False,False
+1012,innertainment delivery systems,3693493.51,2,False,False
+1013,integrated fire systems,20940.0,2,True,False
+1014,integrated industrial supply,10501.2,1,True,False
+1015,intelligence press,8034.0,1,False,False
+1016,intergalactic placements,40211.11,3,False,False
+1017,intergraph,69504.0,10,False,False
+1018,interior designs by ricci,17825.63,1,True,False
+1019,intermountain disposal,4999.99,1,False,False
+1020,intermountain lock security supply,29398.32,3,False,False
+1021,international business machines,4959690.0,4,False,False
+1022,international mailing equip,5295.0,1,False,False
+1023,international restaurant equipment,776633.86,87,True,False
+1024,international restaurant supply,57679.92,10,True,False
+1025,interpreters unlimited,176341.33,2,True,False
+1026,interpreting consulting services,51000.0,3,True,False
+1027,intersect usa,1758850.52,182,True,False
+1028,inyo leasing,43424.5,3,True,False
+1029,ione pharmacy,149909.92,74,True,False
+1030,isaac hearne md pc,223.89,4,False,False
+1031,isco machinery,1750000.0,1,True,False
+1032,istock supply,1250.0,1,False,False
+1033,istockphoto com,199.0,1,False,False
+1034,itc electronics,5709.47,1,True,False
+1035,ives training compliance group,8522.4,1,False,False
+1036,j c chang associates,1181007.5,3,True,False
+1037,j k court reporting,150000.0,1,True,False
+1038,j l hackler construction,767919.4700000001,2,False,False
+1039,j m enterprise,164451.95,6,True,False
+1040,j m equipment,21548.72,1,False,False
+1041,j r supply,49404.26,2,True,False
+1042,j w wood northern industrial sales,37787.63,5,True,False
+1043,jacobs,429808.32,4,False,False
+1044,jacobs engineering group,68052.0,1,False,False
+1045,james e maloney,237770.61,8,False,False
+1046,james ulm,57577.0,1,True,True
+1047,java holdings,63826.08,6,True,False
+1048,jd services chip it recycling,550000.0,3,True,False
+1049,jdi electrical services,493811.0,5,True,False
+1050,jenmax foods,34042.5,4,True,False
+1051,jenny service,2000.0,1,False,False
+1052,jensen precast,7190.0,1,False,False
+1053,jesse m rivera associates,1110740.0,15,False,False
+1054,jet propulsion laboratory nasa,235540.0,1,False,False
+1055,jim o malley plumbing,46854.82,3,True,True
+1056,jims supply,4981.5,5,False,False
+1057,jm enterprise,56046.0,2,False,False
+1058,jm environmental,750000.0,1,True,False
+1059,jmc performance,29463.47,15,True,False
+1060,jmp business systems,3723.0,1,False,False
+1061,jns foods,20000.0,1,False,False
+1062,joed,11630.08,1,True,True
+1063,johasee rebar,18623.0,1,True,False
+1064,john d r clark,13135.16,2,False,False
+1065,john wiley sons publishing,1200.0,1,False,False
+1066,johnson petroleum construction,8736.0,1,False,False
+1067,johnstone supply,78472.53,5,True,False
+1068,joint commission resources,68836.0,6,False,False
+1069,jones bartlett learning,292.01,1,False,False
+1070,jose martinez tree service,9000.0,1,False,False
+1071,journal psychosocial nursing mental health svs,379.0,1,False,False
+1072,journey air conditioning,240478.01,7,True,False
+1073,jps communications,608376.46,4,False,False
+1074,jsql,9720.0,1,False,False
+1075,jtt consulting,21960.0,2,True,False
+1076,judicial council california,4400000.0,1,False,False
+1077,just clean it,49179.7,8,False,False
+1078,justcarla,14890.619999999999,5,True,False
+1079,jwa consulting engineers,12339.75,6,False,False
+1080,jwc environmental,8052.86,1,False,False
+1081,k d sales,5019.95,1,True,False
+1082,kalos,13088.0,1,False,False
+1083,kamran,48491.0,3,False,False
+1084,kanaya construction,152987.75,3,False,False
+1085,kapys electronics radio shack dealer,6832.0,1,False,False
+1086,kar wing trading,208465.36,5,True,False
+1087,karls mojave hardware,47317.47,4,True,False
+1088,kaufer s religious supplies,6736.53,1,True,False
+1089,kd foods,4464253.4,175,True,False
+1090,keefe supply,11225.849999999999,2,False,False
+1091,kelly moore paint,19781.93,4,False,False
+1092,kenmar instrumentation hardware,10030.5,2,False,False
+1093,kenwood usa,157955.09,5,False,False
+1094,kern electric distributors,4991.9,1,False,False
+1095,kern river power equipment,7212.26,1,True,False
+1096,kern security systems,114.0,1,False,False
+1097,kevin burke,22011.52,5,True,False
+1098,kinemetrics,60815.0,12,False,False
+1099,king city hardware,920.0,1,True,False
+1100,kings rehabilitation center,186000.0,1,False,False
+1101,kings roofing,92915.0,1,True,False
+1102,kings view work experience center,310000.0,1,False,False
+1103,kipp zonen,23510.0,2,False,False
+1104,kisters north america,33308.0,5,False,False
+1105,kko labs,44667.979999999996,5,True,True
+1106,klamaths best marketing,14454.0,2,False,False
+1107,klure harris dba kh metals supply,6757.89,1,True,False
+1108,knife river,5690.0,2,False,False
+1109,knight s pumping portable services,90000.0,1,True,False
+1110,knoll enterprises,510418.72,254,True,False
+1111,kochergen farms composting,4722977.68,1,True,False
+1112,kone,176411.0,1,False,False
+1113,kovarus technology solutions,1619140.96,21,False,False
+1114,kritz excavating trucking,70910.0,1,True,False
+1115,kronick moskovitz tiedemann girard,2600000.0,1,False,False
+1116,ktek products systems,5299.56,1,True,True
+1117,kustom kitchens,204058.31,15,True,False
+1118,kvichak marine industries,3443455.87,1,False,False
+1119,l f distributing,46160.71,12,True,True
+1120,l foods,25120.0,3,False,False
+1121,la foods,9400.0,1,False,False
+1122,la lift services,7509.0,1,False,False
+1123,la verne lawnmower center,175.72,1,True,False
+1124,labor law center,623.5,2,False,False
+1125,laerdal medical,1683.41,1,False,False
+1126,lalanne,316419.18,2,True,False
+1127,lancaster plumbing supplies,10415.14,5,True,False
+1128,language people,29052.0,1,True,False
+1129,lassen community college,5189.3,1,False,False
+1130,law offices mark h harris,140980.0,3,False,False
+1131,law offices nancy e hudgins,249300.0,3,False,False
+1132,lawrence wholesale,84169.81,7,False,False
+1133,layne christensen,466597.0,1,False,False
+1134,lc action police supply,1353788.53,86,True,False
+1135,lci computer office products,5199.0,1,False,False
+1136,le beau thelen,473000.0,6,False,False
+1137,lees mercy plaza pharmacy,3000.0,1,False,False
+1138,legend construction painting,68000.0,1,False,False
+1139,lehr auto electric,30841.239999999998,8,True,False
+1140,leiters cambrain park drug,406.92,3,False,False
+1141,lemoore auto supply,5040.0,1,True,False
+1142,lemoore hardware new,6948.0,2,True,False
+1143,lettis consultants international,52000.0,2,True,False
+1144,lexisnexis,183251.45,3,False,False
+1145,lexisnexis matthew bender,233035.0,11,False,False
+1146,liberty composting,45000.0,1,False,False
+1147,lifesigns,8309323.99,2,False,False
+1148,light speed resources,136788.0,2,True,False
+1149,lincoln group,170155.0,1,True,False
+1150,lincoln training center,48864.0,2,False,False
+1151,linda rogers associates,12000000.0,1,True,False
+1152,linenbach auto parts,40000.0,5,True,False
+1153,littler mendelson p c,200000.0,1,False,False
+1154,livermore scientific,928207.39,31,True,True
+1155,livermore software technology,18800.0,5,False,False
+1156,livingston s concrete service,162172.5,3,True,False
+1157,ljt consulting,473200.0,1,True,False
+1158,logans marketing,655380.1,1,True,False
+1159,lombart instrument,9517.0,2,False,False
+1160,lone tree lumber ca steel,15176.68,23,True,False
+1161,longyear o dea lavra,191545.5,3,False,False
+1162,loops,5621.76,2,False,False
+1163,los angeles centers for alcohol drug abuse l cada,8214699.96,1,False,False
+1164,loss protection investigations,6949.0,2,True,False
+1165,lower san joaquin levee district,1696500.0,1,False,False
+1166,lowmarkup,10210.73,2,True,False
+1167,ludfords,23904.0,9,False,False
+1168,m j industrial supplies,195992.08000000002,15,True,False
+1169,m m associates,84591.93000000001,47,True,False
+1170,m m m electrical supply,6425.0,1,False,False
+1171,mac s distributing,742360.92,2,True,False
+1172,madera uniform accessories,16112.0,3,True,False
+1173,madland toyota lift,161582.66999999998,2,False,False
+1174,magazine subscription service agency,9021.92,2,False,False
+1175,magid glove safety mfg,67561.65,4,True,False
+1176,main street technologies,3814.0,2,True,False
+1177,maintex,17127.32,4,False,False
+1178,majestic intl spice,246216.75,59,True,False
+1179,major alarm,6758.0,2,True,False
+1180,management solution,598187819.0,5,True,False
+1181,manley s boiler,1675183.32,6,True,False
+1182,manley trucking,135400.0,1,True,False
+1183,mapvision technologies,290400.0,1,True,False
+1184,maram psychological group,4068280.0,1,True,False
+1185,marc becker diesel fuel injection,64806.08,15,False,False
+1186,mariposa county total waste systems,147353.0,1,False,False
+1187,markell,4434.85,1,True,False
+1188,market lab,450.0,1,False,False
+1189,martin container,2194887.0,1,True,False
+1190,martinez pole tree maintenance,41600.0,1,True,False
+1191,marvell foods,225936.32,26,False,False
+1192,masters pharmaceutical,10000.0,2,False,False
+1193,matheson tri gas,130528.25,17,False,False
+1194,mathworks,24128.0,28,False,False
+1195,matt s business machines,32500.0,1,True,False
+1196,maxim crane works,974886.0,4,False,False
+1197,maytex,3839.0,2,True,False
+1198,mb contract furniture,14819.26,19,True,False
+1199,mbk engineers,790000.0,1,True,False
+1200,mcginty sales,9818108.48,244,True,False
+1201,mcgraw hill school education,1911139.8599999999,9,False,False
+1202,mckenry drapery service,170.0,1,True,False
+1203,mckesson,125026.74,10,False,False
+1204,mckesson drug,7790.0,2,False,False
+1205,mckesson medical surgical,90183.17,11,False,False
+1206,mckesson medical surgical minnesota su,5979087.96,1222,False,False
+1207,mckesson technologies,237791.1,17,False,False
+1208,mckinley elevator,63528.0,1,False,False
+1209,mcmaster carr,7142.84,6,False,False
+1210,mcnamara ney beatty slattery borges ambacher,1353171.5,15,False,False
+1211,mcwhirter building,1212406.0,3,True,False
+1212,medgate,157222.21000000002,2,False,False
+1213,medi tek,29399.96,5,True,False
+1214,medifix,220.0,1,True,False
+1215,mediwaste disposal,74312.0,1,True,False
+1216,medline industries,48057.85,40,False,False
+1217,medspec,129.9,1,False,False
+1218,meek s,19204.97,1,False,False
+1219,meeks lumber hardware,14118.060000000001,5,False,False
+1220,melinda travis reporting services,171000.0,1,True,False
+1221,melo s gas gear,8869.61,9,True,False
+1222,mendo mill lumber,12720.26,5,False,False
+1223,mendoza distributing,473550.89,52,True,False
+1224,mendoza interiors supply,305392.02,32,True,True
+1225,mental health systems,32243518.67,5,False,False
+1226,mercury marine division brunswick,9552.0,2,False,False
+1227,mercury plastics,4999.0,1,False,False
+1228,merritt business supplies,475978.12,222,True,False
+1229,merry x ray chemical,2531.0,1,False,False
+1230,met one instruments,24116.050000000003,6,False,False
+1231,metro record storage shredding,4999.0,1,True,False
+1232,mf athletic,135.6,1,False,False
+1233,michael brandman associates,5986.7,1,False,False
+1234,michael brown sales,274354.0,26,True,False
+1235,michael h brown m d,16660.0,1,False,False
+1236,michelle hu,5464.2,1,False,False
+1237,micropac technologies,85307.03,1,True,False
+1238,mid valley disposal,523196.0,1,False,False
+1239,mid valley pipe steel dba prw steel supply,228050.68,17,True,False
+1240,midstate solid waste recycling,46035.0,1,True,False
+1241,midtown stationers,1428113.37,127,True,False
+1242,millard holweger child marton,590800.0,1,True,False
+1243,millennia technologies,44842.53,5,True,False
+1244,miller lift services,123816.0,1,False,False
+1245,mir3,14550.0,1,False,False
+1246,mission linen supply,52200.0,2,False,False
+1247,mission office products,12434.4,1,True,False
+1248,mister sprockets,57018.0,2,True,False
+1249,mitchell 1,20629.9,2,False,False
+1250,miwall,260963.0,17,False,False
+1251,mj industrial supplies,198096.14,30,False,False
+1252,mjp technologies,15173.42,1,True,False
+1253,mmg technology group,9420.0,1,True,False
+1254,mobile id solutions,4799.0,1,True,False
+1255,modern building systems,39870.0,9,False,False
+1256,modern data products,50041.08,5,True,False
+1257,modesto steel,23343.839999999997,2,False,False
+1258,modoc steel supply,8713.050000000001,5,True,False
+1259,modspace,14090.04,1,False,False
+1260,mody pumps,9046.2,1,True,False
+1261,mohawk resources,100874.48,5,False,False
+1262,moller associates,975000.0,3,False,False
+1263,monster technology,22860.25,8,True,False
+1264,monterey auto supply,16293.75,1,True,False
+1265,montgomery hardware,6271.0,5,False,False
+1266,moore flooring,28029.0,3,True,False
+1267,moore medical,1319.57,7,False,False
+1268,moore quality galvanizing,558000.0,1,False,False
+1269,moore twining associates,148173.4,1,False,True
+1270,morgan nels industrial supply,236185.94,15,True,False
+1271,morgan slates manufacturing supply,128453.15,5,True,False
+1272,morgan tire sacramento,17501.17,1,True,False
+1273,moriyasu optometry,900.0,1,False,False
+1274,morning glory,659188.52,44,True,False
+1275,morning glory gold mines,173651.32,11,False,False
+1276,morphotrust usa,920784.0,8,False,False
+1277,moten food group,256687.12,17,True,False
+1278,mother lode van storage,540000.0,1,True,False
+1279,motor coach industries,2426967.5,5,False,False
+1280,motorola,38655.3,17,False,False
+1281,motorola solutions,27553490.96,20,False,False
+1282,mountain materials,404035.0,1,True,False
+1283,mountainside diposal,240000.0,1,False,False
+1284,mr nature,72774.68,7,False,False
+1285,mro warehouse,430400.75,43,True,False
+1286,mrs nelson s toy book shop,119532.13,10,True,False
+1287,msab,18995.0,1,False,False
+1288,msc industrial supply,1374698.17,136,False,False
+1289,mtm recognition,2821.95,34,False,False
+1290,mts health supplies,1672.8,2,False,False
+1291,mts medication technologies,406.32,1,False,False
+1292,mullen marketing,8775.0,1,False,False
+1293,multi w systems,69878.01,1,True,False
+1294,multimedical systems,13077.98,3,True,False
+1295,musicians friend,8915.0,1,False,False
+1296,mwh,28500000.0,3,False,False
+1297,mwh americas,55794032.0,2,False,False
+1298,my electrician,426700.0,1,True,True
+1299,myerson,6947.04,1,False,False
+1300,mythics,1615615.2000000002,2,False,False
+1301,nalco,176378.49,7,False,False
+1302,napa auto parts,286962.82,15,False,False
+1303,napa county resource conservation district,194613.0,1,False,False
+1304,nasco,1731.5900000000001,2,False,False
+1305,nasco modesto,13764.65,7,False,False
+1306,natec international,157800.0,1,False,False
+1307,nathan cleaver dvbe services,598497.35,35,True,True
+1308,national business furniture,5672.2,1,False,False
+1309,national commission on correctional health care,534.0,2,False,False
+1310,national crossroads,3869108.0,2,True,False
+1311,national discount textles,5924.16,7,True,False
+1312,national econ,79028.0,1,True,False
+1313,national employment law institute,149.0,1,False,False
+1314,national fire systems,5132.5,3,True,False
+1315,national food group,47798.76,5,False,False
+1316,national judicial college,17724.0,1,False,False
+1317,national park service,245858.0,1,False,False
+1318,national police supply,6650.0,1,True,False
+1319,national seating mobility,2833.98,1,False,False
+1320,national toxicology laboratories,1117501.0,3,True,False
+1321,nationwide fire protection,375000.0,2,True,False
+1322,natoma technologies,529863.2,1,True,False
+1323,natural vision,7190.0,12,False,False
+1324,nbc supply,575450.6,7,True,False
+1325,ncc group,5175.0,1,False,False
+1326,nco industries,54339.52,14,True,True
+1327,ncrpsta joint powers authority,14000.0,1,False,False
+1328,ncs pearson,673007.49,10,False,False
+1329,neal p swann dds,2.0,1,False,False
+1330,neopost,45002.0,4,False,False
+1331,neopost usa,1044.2,2,False,False
+1332,netsource,80000.0,1,True,False
+1333,netvad,7844.0,1,False,False
+1334,nevada by products dba reno rendering,251640.0,1,False,False
+1335,new beginnings educational programs,2249800.0,1,True,False
+1336,new england sheet metal,189785.31,3,False,False
+1337,new horizons computer learning center,23000.0,1,True,False
+1338,new pig,20044.7,7,False,False
+1339,new readers press,1979143.28,86,False,False
+1340,nexant,12000000.0,2,False,False
+1341,nexstar broadcasting,10000.0,1,False,False
+1342,nexsys electronics dba medweb,99366.0,4,False,False
+1343,nexus is,89819.15,1,False,False
+1344,nick s custom golf cars,21015.68,5,True,False
+1345,nield law group apc,630825.0,7,False,False
+1346,nitv federal services,161820.0,1,False,False
+1347,nmr,4925000.0,3,False,False
+1348,nor cal battery,7528.4,2,True,False
+1349,nor cal pipeline services,68000.0,1,False,False
+1350,norbert r morgenstern consulting,55000.0,2,False,False
+1351,norcal masonry builders,520000.0,1,False,False
+1352,norcal parts dba lodi truck equipment,3033.07,1,False,False
+1353,norcal supply,40694.04,4,True,False
+1354,norex,9500.0,1,False,False
+1355,norman s wright mechanical equipment corporatoin,7711.95,1,False,False
+1356,north river boats,202184.25,2,False,False
+1357,north siskiyou dairy,22205.989999999998,2,False,False
+1358,north state rendering,467906.4,1,False,False
+1359,north valley distributing,382699.92,23,True,False
+1360,northend auto parts,7911.24,1,False,False
+1361,northern ca partners i,145.0,1,False,False
+1362,northern california court reporters,3699493.65,2,True,False
+1363,northern california power agency,11810.0,1,False,False
+1364,northland hearing centers dba pacific coast hearing center,2.0,1,False,False
+1365,nspire health,201.73,1,False,False
+1366,nuaire,13046.0,1,False,False
+1367,nuance communications,119673.0,1,False,False
+1368,nwn,13924.26,3,False,False
+1369,nwn corportation formerly western blue,115890.01000000001,5,False,False
+1370,o connell jetting systems,12672.0,1,True,False
+1371,o leary s office products,17532.86,31,True,False
+1372,o reilly auto parts,9000.0,1,False,False
+1373,o rings things,5166.0,2,False,False
+1374,obey imaging supplies,2562.0,3,True,False
+1375,ocean marine industries,182105.0,3,False,False
+1376,ocpc,123795.0,2,True,False
+1377,office city,248339.55000000002,93,True,False
+1378,office emergency services,2537120.04,4,False,False
+1379,office pro,12219.86,25,True,False
+1380,office state printing,154055.25,6,False,False
+1381,office supply,5660.32,29,True,False
+1382,office supply express,19156.399999999998,5,True,False
+1383,office xpress,42452.73,39,True,False
+1384,oliver worldclass labs,44278.56,3,True,False
+1385,olympic physical therapy,1.0,1,False,False
+1386,olympic wire equipment,2000.0,1,False,False
+1387,omni,302400.0,2,True,False
+1388,omnicell,152557.13999999998,17,False,False
+1389,ontrack medical,2572.42,1,True,False
+1390,open door counseling,2720670.0,1,True,False
+1391,open text,15667.85,1,False,False
+1392,oraline,6961.2,1,False,False
+1393,orbis partners,468300.0,1,False,False
+1394,orco block,18401.68,2,False,False
+1395,orkin commercial services,38400.0,1,False,False
+1396,orrick herrington sutcliffe,12550000.0,5,False,False
+1397,orthosource,8042.08,4,True,False
+1398,osha review,134848.25,29,True,False
+1399,ourx pharmaxy,39037.0,29,False,False
+1400,outdoor creations,6400.0,1,True,False
+1401,overhead door sacramento,4650.0,1,True,False
+1402,oztech systems,40800.0,1,False,False
+1403,p b,1325.35,1,True,False
+1404,p s supply,31609.08,4,True,True
+1405,pac van,31875.0,2,False,False
+1406,pace learning systems,35162.5,13,True,False
+1407,pacer service center us courts,2500.0,1,False,False
+1408,pacific care products,8159.25,1,False,False
+1409,pacific coast hearing aid service,255526.5,9,True,False
+1410,pacific coast technologies,2500.0,1,True,False
+1411,pacific computer supply,8468.25,1,True,False
+1412,pacific copier computer,8161.12,7,True,False
+1413,pacific gas electric,4256839.0,1,False,False
+1414,pacific industrial,111949.38,48,True,False
+1415,pacific industrial supply,9224.0,4,False,False
+1416,pacific integrated handling,65450.0,1,False,False
+1417,pacific material handling solutions,7247.0,2,False,False
+1418,pacific paper arcata stationers,1962.44,5,True,False
+1419,pacific plumbing specialties,18316.2,3,True,False
+1420,pacific power engineers,12000000.0,1,True,True
+1421,pacific states marine fisheries com,4762017.93,3,False,False
+1422,pacific storage,6424.0,1,True,False
+1423,pacific systems integrators,44320.0,1,True,False
+1424,pacific utility construction,14731.88,4,False,False
+1425,packaging factory,8262.5,1,False,False
+1426,palomar health,45000.0,1,False,False
+1427,pan pacific supply,16536.0,1,False,False
+1428,pape material handling,17149.0,1,False,False
+1429,paper distributors,35893.2,4,True,False
+1430,paper recycling shredding specialists,13140.0,1,True,False
+1431,par,415.8,1,False,False
+1432,paramount pest control,6534.0,1,True,False
+1433,parcelquest,92771.0,3,True,False
+1434,parkhouse tire,6482.52,1,False,False
+1435,parks recreation,1900838.0,1,False,False
+1436,parsons brinckerhoff,100000.0,1,False,False
+1437,paso robles chevrolet,10842.41,2,False,False
+1438,paso robles ford,4999.99,1,False,False
+1439,patriot it,336727.0,27,True,True
+1440,patten energy enterprises,18715.0,7,True,False
+1441,patterson dental,192588.64,33,False,False
+1442,patterson dental supply,19825.92,7,False,False
+1443,patton sales,17811.24,1,False,False
+1444,paul aiello sales,578948.54,68,True,False
+1445,paul c rizzo associates,364000.0,2,False,False
+1446,paul fabares dba ranesco,46926.48,1,False,False
+1447,payless building supply,25484.510000000002,3,False,False
+1448,pc specialist dba tig technology integration group,289606.53,58,False,False
+1449,peak technologies,1057.27,1,False,False
+1450,pearblossom hardware,26302.850000000002,18,True,False
+1451,pearson dental supply,3480.0,1,False,False
+1452,pearson education,1122257.41,18,False,False
+1453,pearsons,15645.0,1,False,False
+1454,pennsylvania department corrections,20000.0,1,False,False
+1455,pepsi beverages,548.23,1,False,False
+1456,pereira sales,4817311.51,151,True,False
+1457,pereira trucking,99900.0,1,False,False
+1458,performance based standards pbs learning institute,40000.0,1,False,False
+1459,performance food group,165788.46,18,False,False
+1460,performance foodservice northern ca,204970.41,7,False,False
+1461,perlmutter purchasing power,84700.0,3,True,False
+1462,peterson power systems,350000.0,1,False,False
+1463,peterson trucks,5380.95,11,False,False
+1464,petsmart,4724.09,1,False,False
+1465,phamatech,1971868.3,1,False,False
+1466,phoenix house orange county,2767631.0,1,False,False
+1467,phoenix houses california,2418843.24,3,False,False
+1468,physicians immunodiagnostic laboratory,151162.0,1,False,False
+1469,pia,22715267.32,566,False,False
+1470,pia dental department corrections,1063.3,1,False,False
+1471,pierce atwood,18400000.0,1,False,False
+1472,pinnacle petroleum,12045379.23,186,True,False
+1473,pioneers memorial healthcare district,45000.0,1,False,False
+1474,pitney bowes,116451.48999999999,29,False,False
+1475,pixell,9188.0,2,True,False
+1476,planit big,392016.69,21,True,False
+1477,planmeca usa,9237.65,7,False,False
+1478,plant hazardous services,123096.0,2,True,False
+1479,platinum packaging group,124324.0,3,True,False
+1480,platt electric supply,42761.2,26,False,False
+1481,plumbing metalmens supply pamsco,5856.7,1,True,False
+1482,portables,140384.0,2,True,False
+1483,porter enterprises,8184.72,5,True,False
+1484,power costs,20000000.0,1,False,False
+1485,power machinery center,3980.96,1,False,False
+1486,powerland equipment,10424.69,1,True,False
+1487,powerstride battery,14630.22,2,False,False
+1488,practicon,47.92,1,False,False
+1489,precision air systems,30324.0,6,True,False
+1490,precision dynamics,125.88,2,False,False
+1491,precision for collision,301011.48,1,False,False
+1492,precisioncraft boatworks,5638.0,2,True,False
+1493,prestige golf cars,250.0,1,False,False
+1494,priax,876.0,2,True,False
+1495,price postel parma,600000.0,1,False,False
+1496,pride companies,137340.0,1,True,False
+1497,pride industries,40000.0,1,False,False
+1498,primary source,1100362.25,259,True,False
+1499,priority mailing systems,18298.29,2,False,False
+1500,prison industry authority,40165924.12,1575,False,False
+1501,priya prakash,7106.5,2,False,False
+1502,pro ed,1044.0,2,False,False
+1503,pro pacific fresh,1226751.05,45,False,False
+1504,proactive resolutions,5000.0,1,False,False
+1505,proactive sales marketing,2889.71,1,False,False
+1506,procurement management solutions,81576.73999999999,7,True,False
+1507,professional cleaners supply,38124.0,1,True,False
+1508,professional health services,100000.0,1,False,False
+1509,professional hospital supply,156.51,1,False,False
+1510,professional property maintenance,16567.29,10,False,False
+1511,professional village pharmacy,34591.08,16,True,False
+1512,proforce law enforcement,159876.77,9,False,False
+1513,progressive medical,19999.96,4,False,False
+1514,progressive print solutions,39320.43,2,True,False
+1515,project impact,2452999.0,3,False,False
+1516,proquest,2698.0,1,False,False
+1517,provantage com,6883.2,1,False,False
+1518,providence technology group,2902084.0,8,True,False
+1519,prudential overall supply,10000.0,1,False,False
+1520,psychological assessment resources,1606.2,4,False,False
+1521,psychological test specialist,2250.0,1,False,False
+1522,public safety center,6027.0,1,False,False
+1523,pueblo trading,17800.0,3,True,False
+1524,puget sound mental health pllc,406916.0,2,False,False
+1525,purchasers choice,4948.25,19,True,False
+1526,pyramid technical consultants,921180.0,3,True,False
+1527,qcoherent software,10069.17,3,False,False
+1528,qsi consulting,220279.73,1,False,False
+1529,quality compressor,4795.0,1,False,False
+1530,quality lift equipment,158539.7,3,True,True
+1531,quality team,6981.99,3,True,False
+1532,quartermaster,1173.98,1,False,False
+1533,quickseries publishing,9589.5,1,False,False
+1534,quinn,9339.720000000001,2,False,False
+1535,quinn shepherd machinery,20380.760000000002,4,False,False
+1536,r b spencer,17887.0,3,True,False
+1537,r beyer,42184.89,4,True,False
+1538,r f macdonald,2699915.05,4,False,False
+1539,r j wholesale,313183.49,8,True,False
+1540,r r quality meats,5778.0,2,False,False
+1541,r y rodriguez,8759.27,2,True,False
+1542,radiant logic,10312.5,2,False,False
+1543,rally chevrolet pontiac,65620.25,3,False,False
+1544,ram enterprises,1122508.6,18,True,True
+1545,randolph cregger chalfant,190420.0,2,False,False
+1546,rapid information destruction services,22999.989999999998,2,True,False
+1547,rapid ratings international,5500.0,1,False,False
+1548,rapiscan security products,89641.5,1,False,False
+1549,ray i juachon associates,401825.75,14,True,False
+1550,ray morgan,88272.0,1,False,False
+1551,rdm industrial products,193055.66,3,True,False
+1552,reclamation district,589950.0,1,False,False
+1553,reclamation district 108,2164854.0,1,False,False
+1554,reclamation district 1667,200000.0,1,False,False
+1555,reclamation district 2085,482066.0,1,False,False
+1556,reclamation district 2092,1369429.0,1,False,False
+1557,recology,1998544.0,3,False,False
+1558,recology yuba sutter,4999.0,1,False,False
+1559,recovery direct,33909.0,5,False,False
+1560,redwood biotech,19200.0,4,False,False
+1561,redwood toxicology laboratory,4800.0,1,False,False
+1562,refrigeration supplies distributor rsd,76658.06,8,False,False
+1563,regents ucla,476749.0,1,False,False
+1564,regents univ ca cont educ bar,57846.0,1,False,False
+1565,regents university california berkeley,774494.0,3,False,False
+1566,regents university california davis,1863637.31,7,False,False
+1567,regents university california irvine,3098549.0,2,False,False
+1568,regents university california merced,7175000.0,1,False,False
+1569,regents university california on behalf ucsd,32582747.83,2,False,False
+1570,regents university california san diego,290328.0,1,False,False
+1571,reily jeffery,1371835.0,19,False,False
+1572,relay application innovation,4700000.0,2,False,False
+1573,reliable project management services,248880.0,1,True,False
+1574,remedia publications,11914.91,1,False,False
+1575,renne sloan holtzman sakai,50000.0,1,True,False
+1576,republic elevator,144123.0,1,True,False
+1577,rescue phone,6495.0,1,False,False
+1578,resource building materials,23201.59,1,False,False
+1579,restaurant equipment specialists,5158.4400000000005,3,True,False
+1580,resurrection janitorial supplies equip,100557.49,1,True,True
+1581,rex o stephens contractor,13230.0,1,False,False
+1582,rge,25008.0,1,True,False
+1583,rgs carports more com,9206.0,1,False,False
+1584,rhodes consolidated,834432.46,18,True,False
+1585,rich readimix concrete,87425.0,1,False,False
+1586,richard hiatt contracting,1159106.0,3,False,False
+1587,richard milner group,17738.59,2,True,True
+1588,richey sportfishing,4994.0,1,False,False
+1589,richmond police activities league i,16000.0,1,False,False
+1590,ricom,99485.5,1,True,False
+1591,ridgeline technology,28081.67,7,True,False
+1592,riley consulting services,3128290.0,3,True,False
+1593,rincon consultants,34745.0,1,True,False
+1594,rine development,6943.28,1,False,False
+1595,rinker associates,29709.0,1,False,False
+1596,rio hondo community college district,18200.0,1,False,False
+1597,rising eagle partners,488015.05000000005,5,True,True
+1598,rite aid dba rite aid pharmacy,2417.94,6,False,False
+1599,rite aid drug store,500.0,1,False,False
+1600,rittman mead america,45360.0,3,False,False
+1601,rivcomm,16282.0,4,False,False
+1602,river city office supply,64974.83,59,True,False
+1603,river city paper,5550.0,1,True,False
+1604,river city truck equipment,6711.8,1,False,False
+1605,riverside county regional medical center,45000.0,1,False,False
+1606,riverside medical supply,76024.94,22,True,False
+1607,riverside publishing,58187.96,2,False,False
+1608,riverview international trucks,783191.49,10,False,False
+1609,rk2 systems,5841.16,3,False,False
+1610,rl environmental,14400.0,1,True,True
+1611,rls industries,80666.85,2,False,False
+1612,rmc water environment,6790000.0,3,False,False
+1613,road machinery,5468.25,2,False,False
+1614,roadrunner drilling pump,147686.0,1,True,False
+1615,roberts associates,26733.43,1,False,False
+1616,robertson s ready mix,442646.78,9,False,False
+1617,robertsons backflow,32005.0,1,True,False
+1618,robinson s interiors,18177.0,1,True,False
+1619,rockhurst university continuing education,5478.95,2,False,False
+1620,rockware,11000.0,1,False,False
+1621,rockwell engineering equipment,71298.2,2,False,False
+1622,rockwell medical supply,521266.51,117,True,False
+1623,rome mercantile,28760.75,3,True,False
+1624,ron campbell trucking,8788.5,1,True,False
+1625,roofers mart so cal,20059.35,2,True,False
+1626,roofers mart southern california,14170.15,1,False,False
+1627,rose shore meat,306255.15,27,False,False
+1628,roto rooter,97500.0,1,False,False
+1629,rotronic instrument,33375.0,6,False,False
+1630,roy e hanson jr mfg,6001.0,1,False,False
+1631,royal packaging,70284.0,3,True,False
+1632,royal wholesale electric,10400.0,2,False,False
+1633,rsse,13240.0,1,True,False
+1634,ruby canyon engineering,28241.0,1,False,False
+1635,russell fabrication,9900.0,1,True,False
+1636,russell sigler,28972.08,1,False,False
+1637,s l meat sales,13445.619999999999,2,False,False
+1638,sabot technologies,254100.0,1,True,False
+1639,sacramento bee,11520.0,1,False,False
+1640,sacramento door gate,14590.0,1,True,False
+1641,sacramento executive helicopters,500000.0,1,True,False
+1642,saddleback educational publishing,13194.97,1,True,False
+1643,safariland,3401581.5,470,False,False
+1644,safer program,3559200.0,1,False,False
+1645,safety center,20000.0,1,False,False
+1646,safway services,1000000.0,1,False,False
+1647,samco communications,11153.48,1,True,False
+1648,san benito supply,112355.0,3,True,False
+1649,san bernardino county,70886.4,1,False,False
+1650,san bernardino paint,5297.4,14,True,False
+1651,san diego police equipment,278116.94,25,True,False
+1652,san diego state university research foundation,1200000.0,2,False,False
+1653,san joaquin county education,15000.0,1,False,False
+1654,san joaquin distributors,7105296.4,922,True,False
+1655,san joaquin flood control agency,1813181.0,1,False,False
+1656,san joaquin general hospital,285000.0,1,False,False
+1657,san joaquin kidney clinic california medical,2.0,1,False,False
+1658,san joaquin rifle pistol range,144000.0,1,False,False
+1659,san joaquin river flood control project agency,1566964.0,1,False,False
+1660,san jose state university research foundation,200000.0,1,False,False
+1661,sandy s communications,6000.0,1,True,False
+1662,sangean america,3540.0,2,False,False
+1663,santana s pumping plumbing,180000.0,1,True,False
+1664,sap consulting,477798.84,6,False,False
+1665,sap government support services,106920.0,2,False,False
+1666,saroni food service,40762.1,10,True,False
+1667,satcom global fze,6270.0,1,False,False
+1668,sav on fence,24770.8,3,True,False
+1669,save on video,13071.36,4,True,False
+1670,saw service america,24509.85,1,False,False
+1671,schneider electric,124300.0,1,False,False
+1672,scholastic,10445.59,1,False,False
+1673,school outfitters,585.5,1,False,False
+1674,schuyler house,4654.0,2,False,False
+1675,scott machine development corporati,5288.0,1,False,False
+1676,scott tanner business equipment,18937.92,30,True,False
+1677,scottel voice data d b black box network services,5952.79,1,False,False
+1678,seacat enterprises,3982072.56,338,True,False
+1679,seafloor systems,10999.0,3,True,False
+1680,seafood dimensions intn l,4481815.62,439,True,False
+1681,second amendment sports,9695.0,1,False,False
+1682,secure detention products,6545292.99,159,True,False
+1683,select business systems bakersfield,16364.99,4,True,False
+1684,selway machine tool,304778.5,4,False,False
+1685,semper fuel,346384.0,4,True,False
+1686,serban s background music,320631.0,2,True,False
+1687,serena software,675000.0,1,False,False
+1688,service west,661199.98,5,False,False
+1689,seviers auto supply,46315.47,7,False,False
+1690,sezzi concrete materials,14010.0,3,True,False
+1691,shamrock materials,12256.65,1,False,False
+1692,shar craft,41193.56,5,True,False
+1693,sharp electronics,167382.61,21,False,False
+1694,sharper future,39294050.0,8,True,False
+1695,shasta forest products,5138.5,1,True,False
+1696,sherwin williams,16802.29,2,False,False
+1697,shift key solutions,5091.3,1,True,False
+1698,shooting star solutions,1212310.0,1,True,False
+1699,show hands,10000.0,1,True,False
+1700,shred it,57600.0,1,False,False
+1701,shred it usa,6999.99,2,False,False
+1702,sids carpet barn,33630.95,3,False,False
+1703,siegesecure,90000.0,1,True,False
+1704,siemens,54080.31,2,False,False
+1705,siemens healthcare diagnostics,81021.22,29,False,False
+1706,siemens industry,1015749.7,2,False,False
+1707,sierra auction trailer sales,799.98,1,False,False
+1708,sierra chemical,83459.27,7,True,False
+1709,sierra safety,111187.88,4,True,True
+1710,signature marketing,97125.17,2,True,False
+1711,signature reprographics,256938.0,1,True,False
+1712,sika sarnafil,443210.5,1,False,False
+1713,silicon forensics,24250.0,3,True,False
+1714,silver foods express distribution,1663531.21,113,True,False
+1715,silverado avionics,203644.86,5,True,False
+1716,simco foods,8301.35,2,False,False
+1717,simon wong engineering,234630.0,1,False,False
+1718,simonds pump,16912.36,1,False,False
+1719,simplex grinnell,97387.59,3,False,False
+1720,sinclair general engineering construction,247079.0,1,True,False
+1721,siro trading,69794.85,6,True,False
+1722,siskiyou distributing,13505.84,2,False,False
+1723,sisq distributing,8420.62,1,True,False
+1724,skips music,2777.1,1,True,False
+1725,skyline scaffold,346062.0,3,True,False
+1726,skymall,700.0,2,False,False
+1727,sled it solutions,9660.0,1,True,False
+1728,slo auto parts,8948.99,1,True,False
+1729,smile business products,2275238.52,437,False,False
+1730,smith emery laboratories,1762800.0,1,False,False
+1731,smiths detection,315227.5,6,False,False
+1732,smitty s food waste recycling service out reach,3873495.0,1,False,False
+1733,snap on industrial,5969.66,48,False,False
+1734,social solutions global,17376284.009999998,2,False,False
+1735,society for blind,4610.0,1,False,False
+1736,softstar research,489500.0,1,True,False
+1737,software house international,7462.13,2,False,False
+1738,solano construction,27976.0,1,True,False
+1739,soledad pharmacy,350.0,2,False,False
+1740,solera holdings dba audatex,50232.0,1,False,False
+1741,sonoma state university,24909.45,1,False,False
+1742,sontek ysi,8245.0,2,False,False
+1743,sorensen machine work,16558.5,5,True,False
+1744,source california energy services,717413.0,2,True,False
+1745,source graphics,5965.96,15,True,False
+1746,sourceone office products,10114.94,10,True,False
+1747,south tahoe refuse,43974.0,1,False,False
+1748,south valley materials,346806.48,10,False,False
+1749,south valley pump,1261782.5,3,False,False
+1750,southwest equipment supply,29922.28,6,True,False
+1751,sparling instruments,8136.0,1,False,False
+1752,spaulding,108245.0,10,True,False
+1753,specialized products,13482.6,2,False,False
+1754,specialty crane rigging,75200.0,1,True,False
+1755,spectrum west,671314.04,1,False,False
+1756,spherion pacific enterprises,43250.0,3,False,False
+1757,spinitar,7234.17,1,False,False
+1758,spiral binding,7132.4,1,False,False
+1759,spirited foods,29700.0,1,True,False
+1760,ss worldwide,9211.24,9,False,False
+1761,st ny dept correctional svcs,79804.98999999999,3,False,False
+1762,staff today,14957362.0,1,True,False
+1763,standard appliance hvac supply,11493.7,1,True,False
+1764,stantec,35885.0,1,False,False
+1765,staples,28737.0,20,False,False
+1766,star foods,7911.75,1,False,False
+1767,state board equalization,8704.0,1,False,False
+1768,state controller s office,817230.0,3,False,False
+1769,state personnel board,507000.0,1,False,False
+1770,state ready mix,17230.0,2,False,False
+1771,statestore,1939891.21,220,True,False
+1772,statewide traffic safety signs,6537.84,10,False,False
+1773,stay safe store,11818.1,1,False,True
+1774,stay safe supply,356283.81,30,False,True
+1775,stb electrical test equipment,45000.0,1,True,False
+1776,steelhead metal fab,328003.54000000004,2,False,False
+1777,step above,6571.5,1,True,False
+1778,stephanie s covington ph d,5310.0,1,False,False
+1779,stericycle,630000.0,2,False,False
+1780,stewart electric supply,117567.89,10,True,False
+1781,stl,98000.0,2,False,False
+1782,stockton tri industries,5970.0,2,True,False
+1783,stonhard,85840.20999999999,3,False,False
+1784,storage battery systems,20506.0,1,False,False
+1785,stordok,4999.99,1,False,False
+1786,strato communications,79952.73,1,True,True
+1787,stryker sales,20350.99,9,False,False
+1788,sturgeon services international,3410000.0,2,False,False
+1789,sturm ruger in,1326.5,2,False,False
+1790,suburban propane,19999.0,2,False,False
+1791,succor international,2033975.06,88,True,False
+1792,suisun resource conservation district,875686.0,2,False,False
+1793,summit crane,576388.0,2,True,False
+1794,sun environmental engineering services,420000.0,1,True,True
+1795,sun valley portables,90000.0,1,False,False
+1796,sunbelt controls,40384.5,5,False,False
+1797,sundance corporate supply,176651.95,28,True,False
+1798,sungard energy systems,700531.53,2,False,False
+1799,sunrise distributors,69796.4,3,False,False
+1800,sunrise shoes pedorthic serv,14752.0,28,True,False
+1801,sunset software technology,21882.0,2,False,False
+1802,superior auto parts warehouse,15000.0,1,False,False
+1803,superior boiler repairs,148570.0,2,True,False
+1804,superior foods,31513.75,1,False,False
+1805,superior produce,2640325.61,134,True,False
+1806,supply station,549798.62,49,True,False
+1807,supplymaster,917.28,1,True,False
+1808,supremewholesaleelectricinc,23417.1,4,True,False
+1809,sureconnections,7350.0,4,False,False
+1810,surtec,6756.0,1,True,False
+1811,surveymonkey com,300.0,1,False,False
+1812,sutter amador hospital,700.0,1,False,False
+1813,sutter butte flood control agency,115785059.0,2,False,False
+1814,sutter coast hospital,1250.0,2,False,False
+1815,sw maintenance,25000.0,1,True,False
+1816,swank motion pictures,3600.0,1,False,False
+1817,swensens shoe store,15239.04,2,False,False
+1818,swift jeep chrysler plymouth dodge,19586.0,1,False,False
+1819,swinerton builders,389096.0,3,False,False
+1820,syar concrete,39447.740000000005,2,False,False
+1821,syar industries,11770.0,2,False,False
+1822,synactive,5294.88,2,False,False
+1823,sysco,101551.8,5,False,False
+1824,sysco central california,92251.0,3,False,False
+1825,sysco food service,34878.33,5,False,False
+1826,sysco foods,23155.989999999998,5,False,False
+1827,sysco sacramento,36694.9,1,False,False
+1828,system solutions dvbe,715315.55,12,True,True
+1829,systems space,7500.0,1,True,False
+1830,sytech solutions,186260.0,1,True,False
+1831,t l battery,9715.4,1,True,False
+1832,t mobility,7155.72,1,False,False
+1833,t r l systems,5402.0,1,False,False
+1834,taborda solutions,2260818.3200000003,32,True,False
+1835,tagg industries,2780043.79,1232,True,True
+1836,tandy leather,1939.65,1,False,False
+1837,target specialty products,9855.17,2,False,False
+1838,task consulting,500000.0,1,True,False
+1839,tayco screenprint,16074.0,1,True,False
+1840,tdm supply,706017.83,123,True,False
+1841,team legal,149999.98,1,True,False
+1842,tech consulting,117866.0,1,True,False
+1843,technical safety services,16533.989999999998,6,False,False
+1844,technology crest,246400.0,1,True,False
+1845,technology integration group,1997337.93,301,False,False
+1846,technology management solutions,1498325.0,1,True,False
+1847,techsmith,85.9,1,False,False
+1848,teel technologies,24952.8,2,False,False
+1849,teknimedia,81880.0,4,False,False
+1850,telecare,14736960.0,1,False,False
+1851,tera lite,75514.0,2,True,False
+1852,teraband technologies,186459.27000000002,22,False,False
+1853,terry johnson trucking,1806.45,1,False,False
+1854,thatcher arizona,8040.0,1,False,False
+1855,thatcher california,8040.0,1,False,False
+1856,therapeutic research center,18548.09,1,False,False
+1857,thermo electron north america,44256.0,1,False,False
+1858,thermo fisher scientific,20449.12,1,False,False
+1859,thomas partitions specialties,65408.009999999995,5,False,False
+1860,thompson building material,36463.53,3,False,False
+1861,thomson reuters,8414.43,16,False,False
+1862,thomson west barclays,245.0,1,False,False
+1863,tiger tanks,36960.0,1,True,False
+1864,timekeeping systems,101385.0,10,False,False
+1865,timpac,4475.52,1,True,False
+1866,tire store,22360.0,1,False,False
+1867,titan crane rigging,674000.0,7,True,False
+1868,title boxing,6549.65,4,False,False
+1869,titus enterprises,31369.0,8,True,False
+1870,tlim consulting,1198180.0,4,True,False
+1871,tns ready mix,5450.0,1,False,False
+1872,tns trucking,33249.0,3,True,False
+1873,tom cat environmental services,60000.0,1,False,False
+1874,tom s house hydraulics,23939.0,4,True,False
+1875,toms house hydraulics,350104.0,12,False,False
+1876,tonerimaging,29433.5,5,True,False
+1877,tool stop,15966.69,1,True,False
+1878,top dog retrievers,41306.25,3,True,False
+1879,tops pen,15200.0,1,True,False
+1880,torrences farm implements,706261.4,23,True,False
+1881,touch legal dba touch sonic technologies,1744839.0,2,True,False
+1882,toyota material handling northern california,461275.25,9,False,False
+1883,tracy pont cad gmc,151325.58000000002,4,False,False
+1884,transtech systems,25252.82,8,False,False
+1885,traut line ind,219006.81,39,False,False
+1886,traut line industrial,461475.19,87,True,False
+1887,treible stationers,8881.36,1,True,False
+1888,tri c machine,28000.0,2,True,False
+1889,tri county business systems,4999.99,1,True,False
+1890,tri signal integration,141301.0,1,False,False
+1891,triactive america,4360.59,1,False,False
+1892,triangle rock products,8593.98,1,False,False
+1893,triarco arts crafts,1415.0,2,False,False
+1894,trico welding supplies,542384.89,1,True,False
+1895,trimark erf,13880.88,4,False,False
+1896,trimble navigation,39327.0,2,False,False
+1897,trinity technology group,698826.0,3,True,False
+1898,tristate laminating division gl veneer,68551.36,3,True,False
+1899,troux technologies,24919.45,1,False,False
+1900,trussbilt,89348.16,1,False,False
+1901,tscti,903800.0,2,False,False
+1902,tsi,362250.0,1,False,False
+1903,tsps,11223.55,4,False,False
+1904,tulare county training center for handicapped,158460.89,27,False,False
+1905,tulare firestone,20000.0,1,False,False
+1906,tullet prebon americas,57600.0,1,False,False
+1907,tulsa dental products,4213.82,4,False,False
+1908,tum lum lumber,13617.41,1,False,False
+1909,turf industrial equipment,5000.0,1,True,False
+1910,turk s kern copy,4000.0,1,False,False
+1911,turning point central california,27135756.49,11,False,False
+1912,tyler m wilson d d s,2.0,1,False,False
+1913,u r varanasi m d,3.0,1,False,False
+1914,u s air filtration,21768.48,1,True,False
+1915,u s army engineers usace,3900000.0,1,False,False
+1916,u s bureau reclamation,103000000.0,2,False,False
+1917,u s fish wildlife services,6900697.6,6,False,False
+1918,u s geological survey,12046450.0,2,False,False
+1919,u s postal service,2486.0,3,False,False
+1920,ucsf medical center,4999.99,1,False,False
+1921,uline,16854.2,22,False,False
+1922,uni poly,10680.0,2,True,False
+1923,unicom systems,19808.0,1,False,False
+1924,unident unimed usa,1862412.48,397,True,False
+1925,union supply,15165.85,9,False,False
+1926,united 2 connect international,23200.0,1,True,False
+1927,united barber beauty supply,8841.03,13,False,False
+1928,united parcel service,74600.0,5,False,False
+1929,united refrigeration,58903.72,10,False,False
+1930,united rental,12377.55,1,False,False
+1931,united rentals north america,4506028.16,8,False,False
+1932,united site services california,767644.0,4,False,False
+1933,united states geological survey,21642103.0,8,False,False
+1934,united synergy,31650.97,3,True,True
+1935,unitis,92410.44,26,True,False
+1936,univar usa,19089.97,3,False,False
+1937,universal engine heater,260000.0,1,False,True
+1938,universal fish boston,62310.0,5,False,False
+1939,universal specialties,6126.85,1,True,False
+1940,university california davis hr worklife,590000.0,2,False,False
+1941,university california san diego,627034.16,1,False,False
+1942,university cincinnati,70000.0,1,False,False
+1943,university colorado,6300.0,3,False,False
+1944,university enterprises,152000.0,1,False,False
+1945,university washington,33726.0,1,False,False
+1946,university wisconsin madison,413.0,1,False,False
+1947,unknown,161682972.82,623,True,True
+1948,unleashing leaders,97865.0,1,False,False
+1949,uptodate,168389.0,1,False,False
+1950,uptown uniforms,696.0,1,False,False
+1951,urs,549682.8,4,False,False
+1952,urs americas,1500000.0,1,False,False
+1953,urs corporations america,500000.0,1,False,False
+1954,urs dba urs americas,225333.27000000002,3,False,False
+1955,us bioservices,77293.16,8,False,False
+1956,us control group,2422849.42,370,True,True
+1957,us controls,8402.4,1,True,False
+1958,us fish wildlife service,812764.6799999999,2,False,False
+1959,us foods,97288.0,23,False,False
+1960,us foodservice,4213414.21,188,False,False
+1961,usa mobility,8849.99,4,True,False
+1962,usa waste california,273624.0,1,False,False
+1963,usda aphis wildlife services,495201.0,3,False,False
+1964,v f supplies,96626.0,7,True,False
+1965,v h blackinton,49999.0,1,False,False
+1966,v v mfg,18051.0,1,True,False
+1967,vacaville sanitary service,58518.0,1,False,False
+1968,vali cooper associates,39000000.0,2,False,False
+1969,valley business center,4999.99,1,False,False
+1970,valley cities gonzales fence,3956.6,1,True,False
+1971,valley construction supply,329164.38,16,True,False
+1972,valley elevator,296900.0,3,True,False
+1973,valley industrial specialties,55210.64,11,True,False
+1974,valley oxygen,49073.14,2,True,False
+1975,valley pipe supply,24145.73,4,True,False
+1976,valley power systems,6599.02,1,False,False
+1977,valley tool repair,48430.0,1,True,False
+1978,valley truck tractor,44668.4,6,False,False
+1979,value business products,144107.42,75,True,False
+1980,vanguard instruments,5216.0,3,False,False
+1981,vanness feldman,715000.0,1,False,False
+1982,vans ace hardware,73301600.0,2,False,False
+1983,varidesk,700.0,2,False,False
+1984,velocity team sales,12300.0,1,False,False
+1985,ventura county,29084.1,1,False,False
+1986,ventura county community college district oxnard college,320000.0,1,False,False
+1987,ventura valley foods,75718.01,7,True,False
+1988,ventyx,152913.18,4,False,False
+1989,verizon business services,97496149.66,78,False,False
+1990,verizon wireless,80317.23,21,False,False
+1991,vernon machine dba bender machine,15000000.0,1,False,False
+1992,vertex,39240.0,1,False,False
+1993,very last word,245.09,2,True,False
+1994,vesoft,7952.0,1,False,False
+1995,veteran logistics,321935.25,13,True,True
+1996,veterans communication services,35000.0,1,True,True
+1997,veterinary pharmaceuticals,45000.0,3,False,False
+1998,vidacare,5000.0,2,False,False
+1999,video electronics,11069.0,1,True,True
+2000,video streaming services,265930.0,1,True,False
+2001,vidyut luther dba zippykid,14800.0,1,False,False
+2002,viking shred,14976.0,1,True,False
+2003,vincent communications,131577.3,5,True,False
+2004,vincent electric motor,18866.36,1,True,False
+2005,vinyard doors,12614.4,1,True,False
+2006,vision recycling,5004.12,1,True,False
+2007,vista paint,7425.78,12,False,False
+2008,vistam,200650.0,2,True,False
+2009,vistar,11683.3,2,False,False
+2010,vmi,90040.26000000001,5,True,False
+2011,voiance language services,41363.0,2,False,False
+2012,volunteers america bay area,13961233.899999999,4,False,False
+2013,volunteers america southwest california,6405320.59,3,False,False
+2014,voyager fleet systems,1147118.43,5699,False,False
+2015,vulcan industries,13944.0,1,False,False
+2016,vulcan materials,5337.5,1,False,False
+2017,vulcan materials western div,19099.0,4,False,False
+2018,w b re entry facilities,3382805.0,1,True,False
+2019,w w grainger,8749.8,2,False,False
+2020,walgreens specialty pharmacy,539195.88,37,False,False
+2021,walkenhorst s,4495.0,3,False,False
+2022,walkers office supplies,37226.31,83,True,False
+2023,walman optical dba x cel contacts,10940.869999999999,7,False,False
+2024,walsma oil,29885.9,8,True,False
+2025,walters wholesale electric,5907.6,1,False,False
+2026,walts auto parts,20000.0,2,False,False
+2027,wang controls,1154800.0,1,False,False
+2028,warehouse paint,21971.879999999997,2,True,False
+2029,warnack pharmacy,100.0,1,False,False
+2030,waste connections d b sei solid waste,29422.0,1,False,False
+2031,wastequip,30470.0,2,False,False
+2032,water education foundation,23044.45,8,False,False
+2033,water power law group,150000.0,1,False,False
+2034,waterman supply,17770.600000000002,5,False,False
+2035,watermark engineering,22380.0,3,True,False
+2036,waxie sanitary supply,3902.75,1,False,False
+2037,wayne bolman distributing,142693.8,9,True,False
+2038,wc chemical engineering,10752.59,1,False,False
+2039,wcr,12480.75,1,False,False
+2040,we deal,14705.04,1,True,False
+2041,webb surgical supply,19832.1,3,True,False
+2042,webdam solutions,20486.8,1,False,False
+2043,weck laboratories,1500000.0,1,True,False
+2044,weingart center,3068665.0,1,False,False
+2045,welch allyn,403.0,1,False,False
+2046,west american supply,76201.78,5,True,False
+2047,west coast ambulance truck sales,159740.0,11,False,False
+2048,west coast industrial,6545.65,1,False,False
+2049,west coast industrial supply,258619.84,48,True,False
+2050,west coast lights sirens,43669.729999999996,9,True,False
+2051,west coast materials,5292.0,1,True,False
+2052,west coast pneumatics,5289.75,1,True,False
+2053,west coast sand gravel,16907.25,2,False,False
+2054,west coast wire rope,6483.3,1,False,False
+2055,west publishing dba elite thomson reuters business,989.0,2,False,False
+2056,west star environmental,87970.02,3,True,True
+2057,westcare california,39408055.44,9,False,False
+2058,westcon medical industries,584.0,1,False,False
+2059,western blue,3010220.91,52,False,False
+2060,western blue an nwn,18558339.2,392,False,False
+2061,western contract furnishers,122599.7,11,True,False
+2062,western dc systems,8260.24,1,False,False
+2063,western group,90000.0,1,True,False
+2064,western oilfields supply dba rain for rent,6570.0,1,False,False
+2065,western plumbing parts specialties,405532.06,125,True,False
+2066,western state design,23611.7,2,True,False
+2067,western tree service,78941.0,1,True,False
+2068,western weather group,78163.94,53,False,False
+2069,westside building material,22172.53,3,False,False
+2070,westside waste management,100000.0,1,False,False
+2071,weyrick companies,12235.9,1,True,False
+2072,whitaker brothers business machines,995.0,1,False,False
+2073,white cap construction supply,14462.24,2,False,False
+2074,wilbur ellis,49830.0,2,False,False
+2075,wilco supply,7360.0,1,True,False
+2076,wildco,10049.1,2,True,False
+2077,williams associates,389636.5,5,False,False
+2078,williams tree service,27200.0,1,True,False
+2079,wilsons trees things,12205.0,1,False,False
+2080,wilsonstafford,20023.940000000002,3,True,False
+2081,windecker,25254.0,1,False,False
+2082,windsor solutions,8194.0,1,False,False
+2083,wingfoot commercial tire systems,11957.26,3,False,False
+2084,winner chevrolet,2784870.5,67,False,False
+2085,witt s everything for office,36805.509999999995,13,True,False
+2086,wm medical,3359.52,3,True,False
+2087,women 4 change,110000.01,1,False,False
+2088,wondries fleet group,3455936.43,56,False,False
+2089,wood works,121749.1,6,True,False
+2090,woodsmith,6409.09,5,True,False
+2091,work boot warehouse,494705.65,8,True,False
+2092,work training center for handicapped,387344.20999999996,3,False,False
+2093,world book,5780.16,1,True,False
+2094,worthington direct,2295.1,1,False,False
+2095,writtten communications,2618131.95,1,True,False
+2096,wymore,82862.0,2,True,False
+2097,xerox,280237.18,8,False,False
+2098,xpedx,27509.34,6,False,False
+2099,xyz scientific applications,10250.0,1,False,False
+2100,yamaha golf cars california,44357.05,6,True,False
+2101,yasser w barsoum m d,1.0,1,False,False
+2102,yesco,8580.0,1,False,False
+2103,york industries,80616.65,19,True,False
+2104,ysi,421113.37,118,False,False
+2105,z auto parts,5000.0,1,False,False
+2106,z bus sales,336064.0,4,False,False
+2107,z venture capital frontiers,6115.2,1,True,False
+2108,zanker road resource management,77800.0,1,False,False
+2109,zoll lifecor,27609.0,1,False,False
+2110,zytech solutions,13699.52,12,True,False
