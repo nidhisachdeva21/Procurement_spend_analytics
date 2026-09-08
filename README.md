@@ -12,6 +12,7 @@ controls.**
 ---
 
 ## Headline findings
+![Spend concentration](chart_1_pareto.png)
 
 **1. Spend is extremely concentrated.** 89 of 1,483 goods suppliers (6.0%) account
 for 80% of goods spend. The remaining 1,395 suppliers share $102M — an average of
@@ -32,6 +33,8 @@ and price leverage meaningful.
 hold 33.3% of spend against a 25% mandate; DVBE holds 1.7% against a 3% mandate.
 564 of the 1,395 tail suppliers (40%) are SB-certified — so indiscriminate tail
 reduction would breach the DVBE target further and erode SB performance.
+
+![Kraljic portfolio matrix](chart_2_kraljic.png)
 
 **5. Data quality is materially compromised.** 785 duplicate purchase lines worth
 $27.8M appear within a single fiscal year. 3,906 lines carrying $1.71B are dated
