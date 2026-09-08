@@ -1,0 +1,5 @@
+lever,basis,assumption,saving,confidence,pct_of_goods
+Tail-supplier consolidation,"1,395 suppliers below the 80% threshold, $102,132,737 spend",6% negotiated discount on consolidated tail volume (industry benchmark),6127964.195399999,Medium - benchmark-based,0.012050303063128032
+Route non-competitive goods spend to leveraged contracts,"$131,290,841 of goods bought outside competitive/statewide routes",5% price improvement when moved onto existing leveraged agreements,6564542.058,"Medium - benchmark-based, overlaps with lever 1",0.01290880931206007
+Duplicate purchase-line controls,"785 identical lines in a single fiscal year, $27,807,217",50% represent genuine double-processing rather than legitimate repeat buys,13903608.445,Low - requires PO-level validation,0.02734067793005113
+Maverick-spend / price harmonisation,Not quantifiable - unit-of-measure absent from dataset,EXCLUDED. See price comparability test.,0.0,Excluded - data does not support it,0.0

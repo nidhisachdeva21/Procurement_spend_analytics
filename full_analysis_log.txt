@@ -1,0 +1,155 @@
+
+==============================================================================
+STEP 1  LOAD, CLEAN & DATA QUALITY AUDIT
+==============================================================================
+Rows loaded: 39,336
+  removed 785 duplicate lines worth $27,807,217
+
+DATA QUALITY AUDIT
+  Rows with unparseable amount or missing supplier      35                  -
+  Zero-value lines removed                             374                 $0
+  Duplicate purchase lines removed                     785        $27,807,217
+  Lines dated outside FY2014-15 (flagged, kept)      3,906     $1,714,619,406
+  Lines with supplier recorded as 'Unknown'            623       $161,682,973
+
+Clean records: 38,142   Total spend: $3,089,366,807
+
+==============================================================================
+STEP 2  SUPPLIER NAME NORMALISATION
+==============================================================================
+Raw supplier name strings        : 2,212
+After standardisation rules      : 2,119
+After guarded fuzzy match (>=0.93): 2,111
+--> 101 duplicate identities consolidated (4.6% of raw names)
+    merge log: output/02_supplier_merge_log.csv (8 merges to review)
+
+==============================================================================
+STEP 3  SPEND SEGMENTATION
+==============================================================================
+UNSPSC classification present on 99.3% of lines
+  57 segments / 356 families / 4968 commodities
+
+GOODS vs SERVICES
+          lines           spend median_line
+type                                       
+Goods     36458    $508,531,957      $1,857
+Services   1684  $2,580,834,850     $79,709
+
+Concentration warning: the 10 largest lines are 36.7% of total spend (all major capital/services contracts).
+--> Category-management levers are scoped to GOODS, the repeat transactional
+    spend where consolidation and price harmonisation actually apply.
+
+==============================================================================
+STEP 4  ANALYSIS 1 - SPEND CONCENTRATION (GOODS)
+==============================================================================
+89 of 1,483 suppliers (6.0%) account for 80% of goods spend ($508,531,957)
+Tail: 1,395 suppliers (94.1%) share $102,132,737 (20.1%) - average $73,213 each
+
+==============================================================================
+STEP 4  ANALYSIS 2 - CATEGORY FRAGMENTATION (GOODS)
+==============================================================================
+                                              spend  suppliers  lines avg_per_supplier  suppliers_per_$1m
+category                                                                                                 
+Meat And Poultry Products               $25,817,951         50   1020         $516,359                1.9
+Dairy Products And Eggs                 $24,924,393         32    718         $778,887                1.3
+Bread And Bakery Products               $23,974,951         34    890         $705,146                1.4
+Computer Equipment And Accessories      $22,796,405         75    696         $303,952                3.3
+Prepared And Preserved Foods            $21,048,378         47   1168         $447,838                2.2
+Communications Devices And Accessories  $19,995,860         38    135         $526,207                1.9
+Motor Vehicles                          $18,139,655         29    266         $625,505                1.6
+Computer Services                       $17,467,768         98    479         $178,243                5.6
+Fuels                                   $15,420,868          9   5906       $1,713,430                0.6
+Clothing                                $14,984,130         38    407         $394,319                2.5
+Software                                $14,649,612         79    270         $185,438                5.4
+Consumer Electronics                    $10,476,279         49    151         $213,802                4.7
+Paper Products                           $9,458,924         89    867         $106,280                9.4
+Fresh Fruits                             $9,402,193         27    553         $348,229                2.9
+Printed Media                            $9,325,795         65    286         $143,474                7.0
+
+Most fragmented categories (>$1M spend):
+  Oil And Gas Drilling And Exploration Equipmen   67 suppliers / $   1,054,049
+  Hardware                                       101 suppliers / $   1,824,954
+  Batteries And Generators And Kinetic Power Tr   87 suppliers / $   1,612,401
+  Power Sources                                   59 suppliers / $   1,137,673
+  Lighting Fixtures And Accessories               53 suppliers / $   1,023,168
+
+==============================================================================
+STEP 4  ANALYSIS 3 - PRICE COMPARABILITY TEST (RESULT: NOT SUPPORTABLE)
+==============================================================================
+Tested whether the same item is bought at different unit prices across
+departments (the standard maverick-spend test).
+
+  62% of goods lines record Quantity = 1 with the full lot value
+  in Unit Price - representing 77% of goods spend.
+  Across 161 repeat-bought items, the median max/min unit-price ratio
+  is 3,786x - e.g. 'bread' appears at $0.11 and $20,747.
+
+  Unit-of-measure is not captured in this dataset vintage, so these ratios
+  reflect inconsistent data entry (each vs case vs lot), not price variance.
+
+  CONCLUSION: excluded from the savings model. Quantifying maverick spend
+  would require PO-level data with unit-of-measure. Reporting a number here
+  would have overstated savings by orders of magnitude.
+
+==============================================================================
+STEP 4  ANALYSIS 4 - COMPETITIVE vs NON-COMPETITIVE SOURCING (ALL SPEND)
+==============================================================================
+                                      sum   size    pct
+sourcing                                               
+Competitive / leveraged    $1,765,656,385  23913  57.2%
+Non-competitive or exempt  $1,323,710,422  14229  42.8%
+
+$1,323,710,422 (42.8%) of spend did not go through a competitive
+or leveraged route - the single largest governance exposure in the portfolio.
+
+==============================================================================
+STEP 4  ANALYSIS 5 - KRALJIC PORTFOLIO MATRIX (GOODS)
+==============================================================================
+Thresholds: spend median $2,980,416; risk median 0.15
+quadrant
+Strategic     25
+Routine       24
+Leverage      20
+Bottleneck    20
+
+By quadrant:
+  Strategic    25 categories  $   197,302,911  -> Partner - dual-source, joint planning
+  Leverage     20 categories  $   190,542,491  -> Negotiate - tender, consolidate volume
+  Bottleneck   20 categories  $    32,860,529  -> Secure - buffer stock, qualify alternates
+  Routine      24 categories  $    39,505,308  -> Simplify - catalogue buying, e-procurement
+
+==============================================================================
+STEP 4  ANALYSIS 6 - SMALL BUSINESS / DVBE PARTICIPATION
+==============================================================================
+Certified Small Business spend : $1,029,521,790  (33.3%)
+Certified DVBE spend           : $51,756,285  (1.7%)
+
+Statutory targets: 25% Small Business, 3% DVBE.
+--> Consolidation must be constrained by these targets: the tail is where most
+    certified suppliers sit, so cutting it indiscriminately breaches the mandate.
+    564 of 1,395 tail suppliers (40%) are SB-certified.
+
+==============================================================================
+STEP 5  SAVINGS MODEL
+==============================================================================
+                                                   lever      saving pct_of_goods                                      confidence
+                             Tail-supplier consolidation  $6,127,964        1.21%                        Medium - benchmark-based
+Route non-competitive goods spend to leveraged contracts  $6,564,542        1.29% Medium - benchmark-based, overlaps with lever 1
+                        Duplicate purchase-line controls $13,903,608        2.73%              Low - requires PO-level validation
+                    Maverick-spend / price harmonisation          $0        0.00%             Excluded - data does not support it
+
+Gross identified            : $26,596,115
+Less overlap (levers 1 & 2) : $2,451,186   [40% haircut, deliberately conservative]
+NET IDENTIFIED SAVINGS      : $24,144,929
+  = 4.7% of $508,531,957 addressable goods spend
+  = 0.8% of $3,089,366,807 total portfolio
+
+==============================================================================
+STEP 6  STAR-SCHEMA EXPORT
+==============================================================================
+  fact_spend.csv  38,142 rows
+  dim_supplier.csv  2,111 rows
+  dim_category.csv  4,968 rows
+  dim_date.csv  365 rows
+
+Done. All outputs in ./output/
